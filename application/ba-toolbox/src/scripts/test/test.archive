@@ -1,0 +1,32 @@
+{
+    "title": [], 
+    "subtitle": [], 
+    "frames": {
+        "title_page": {
+            "page": 0, 
+            "type": "title"
+        }, 
+        "": {
+            "page": 1, 
+            "type": "convo", 
+            "cols": {
+                "C": {
+                    "character": [], 
+                    "animation": {
+                        "type": [], 
+                        "from": [], 
+                        "to": [], 
+                        "duration": 2000
+                    }, 
+                    "is-voiced": false
+                }
+            }, 
+            "has-speaker": true, 
+            "speaker": {
+                "name": [], 
+                "org": [], 
+                "content": [] 
+            }
+        }
+    }
+}
