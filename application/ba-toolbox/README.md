@@ -29,7 +29,9 @@ No idea. Right now it's running on magic by Vercel. I've no idea what they use b
 
 ## About / 关于
 ### Who are you? / 你是谁? 
-I'm K6MLX. Yes that's a FCC HAM callsign. You can find me on air if you live around California and tune in to CARLA radio system. For more information, please refer to my github.io page at yxu-k6mlx.github.io. 
+I'm K6MLX. Yes that's a FCC HAM callsign. You can find me on air if you live around California and tune in to CARLA radio system (`K6LNK`). For more information, please refer to my github.io page at yxu-k6mlx.github.io. 
+
+请叫我K6MLX，或简称ML。如果你也是个业余无线电爱好者，可能会对这个代号感到敏感，是的，这是个FCC授权的美西HAM呼号。如果你有足够的技术和时间，可以使用`EchoLink -> CARLA Radio (K6LNK)`，在美西时间下午左右有概率抓到我。
 
 ### Why am I doing this? / 为什么开发这个项目? 
 I can't find a job without a proper portfolio, and when I wanted to write some fan-fic for Blue Archive, AzureArchive broke on me. And since that app is built with Unity with no publicly available source code, I can't even help fix it. So I said fuck it and am building an open-source alternative to AA and use this oppotunity to hopefully build a good enough portfolio so someone will hire me lol. 
@@ -42,6 +44,7 @@ If you are interested, please contact me first using all my contacts listed on [
 
 ### What's the plan? / 计划为何? 
 Please refer to the illustrations below. 
+请看大屏幕 (英文ONLY, 请原谅本人手写中文的本事已经废了 `:(`). 
 ![General Planning](./public/plans/general_planning.png?raw=true)
 ![Dialog Screen Planning](./public/plans/dialog_planning.png?raw=true)
 
