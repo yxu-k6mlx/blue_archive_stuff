@@ -40,6 +40,12 @@ If you are interested, please contact me first using all my contacts listed on [
 
 汝若有致，还请移步[联络信息站](https://yxu-k6mlx.github.io/Contact/contact.html)。
 
+### What's the plan? / 计划为何? 
+Please refer to the illustrations below. 
+![General Planning](./public/plans/general_planning.png?raw=true)
+![Dialog Screen Planning](./public/plans/dialog_planning.png?raw=true)
+
+
 ## Additional Information / 更多信息
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
