@@ -6,12 +6,12 @@ export default function Home() {
     <main className={styles.main}>
       <div className={styles.center}>
         <Image
+          className={styles.title}
           src="/ba_toolbox_logo.png"
           alt="Hi :)"
           width={1086}
           height={350}
           priority
-          unoptimized={false}
         />
       </div>
 
