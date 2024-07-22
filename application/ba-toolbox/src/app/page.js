@@ -53,16 +53,16 @@ export default function Home() {
         </a>
 
         <a
-          href=""
+          href="https://github.com/yxu-k6mlx/blue_archive_stuff/tree/main/application/ba-toolbox"
           className={styles.card}
           target="_blank"
           rel="noopener noreferrer"
         >
           <h2>
-            简体中文站 <span>-&gt;</span>
+            简体中文 <span>-&gt;</span>
           </h2>
           <p>
-            施工中.
+            简体中文的项目相关介绍和内容请点此进入GitHub查看. 
           </p>
         </a>
       </div>
