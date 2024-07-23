@@ -9,13 +9,13 @@ Keep in mind I literally just made this repo not that long ago, so everything be
 以下是目前为止的一些工程实现设想，鉴于这个工程刚刚开始，以下内容随时可能变动。
 
 ### Frameworks / 框架
-This project is planned to be a broswer based application. The server-side rendering will be done mostly in `Node.js`, while the client-size rendered front-end will be built on `React.js`. 
+This project is planned to be a broswer based application. The server-side rendering will be done mostly in `Next.js`, while the client-size rendered front-end will be built on `React.js`. 
 
-本项目计划使用`React.js`支援客户端UI渲染搭配`Node.js`支援后端渲染。
+本项目计划使用`React.js`支援客户端UI渲染搭配`Next.js`支援后端渲染。
 
 Again, this is (so far) planned to be a `React.js` project as an opportunity for me to learn React. No idea how this will work out cuz I have very minimal experiences in this field. Let's see how this goes. 
 
-鉴于本人对`React.js`和`Node.js`一无所知所以这个项目也是逼我自己学前端的一个项目，前程依旧充满未知。
+鉴于本人对`React.js`和`Next.js`一无所知所以这个项目也是逼我自己学前端的一个项目，前程依旧充满未知。
 
 ### Story Scripting / 故事编辑系统
 The stories themselves are planned to be represented by ".archive" files which are json files with a different subfix to avoid confusion. 
