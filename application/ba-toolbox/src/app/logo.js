@@ -8,7 +8,7 @@ export default function Logo(){
             width={1086}
             height={350}
             priority
-            unoptimized={false}
+            unoptimized={true}
         />
     ); 
 }
