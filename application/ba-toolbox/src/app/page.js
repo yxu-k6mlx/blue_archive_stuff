@@ -1,4 +1,4 @@
-import MainApp from "./app"
+import MainApp from "./logo"
 import Directions from "./directions"
 import styles from "./page.module.css";
 

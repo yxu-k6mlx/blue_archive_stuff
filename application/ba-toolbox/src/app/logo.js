@@ -1,7 +1,6 @@
 import Image from "next/image";
-import React from 'react'; 
 
-export default function MainApp(){
+export default function Logo(){
     return (
         <Image
             src="/ba_toolbox_logo.png"
