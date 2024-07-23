@@ -1,7 +1,7 @@
 {
   "name": "ba-toolbox",
   "version": "0.1.0",
-  "homepage": "https://yxu-k6mlx.github.io/ba-toolbox", 
+  "homepage": "https://blue-archive-stuff.vercel.app/", 
   "private": true,
   "scripts": {
     "predeploy": "npm run build",
