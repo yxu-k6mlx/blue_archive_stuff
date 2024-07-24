@@ -7,7 +7,8 @@ import App from "./app"
 export default function Home() {
   return (
     <main className={styles.main}>
-      <Logo />
+      <link href='https://fonts.googleapis.com/css?family=Noto Sans' rel='stylesheet'></link>
+      <App />
       <Directions />
       <Footer />
     </main>

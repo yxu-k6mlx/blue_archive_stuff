@@ -1,0 +1,18 @@
+.ba_button_container{
+    position: relative; 
+    color: 'blue'; 
+}
+
+.ba_button_text{
+    position: absolute; 
+    text-transform: uppercase;
+    font-family: 'Noto Sans', sans-serif; 
+    font-weight: 600; 
+    font-style: oblique 35deg;
+    font-size: 60px;
+    bottom: 20%; 
+    right: 25%; 
+    left: 15%; 
+    text-align: center;
+    color: #152238; 
+}

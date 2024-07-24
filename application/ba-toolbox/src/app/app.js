@@ -1,8 +1,12 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 
+import BA_Button from "./modules/media_controls/buttons"
+
 export default function Application() {
     return (
-        <img src="https://github.com/SchaleDB/SchaleDB/blob/main/images/background/BG_MainOffice_Night.jpg?raw=true"></img>
+        <div>
+            <BA_Button button_text={"auto"} /> <BA_Button button_text={"menu"} /> 
+        </div>
     ); 
 }
