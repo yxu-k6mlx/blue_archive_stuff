@@ -46,6 +46,7 @@ If you are interested, please contact me first using all my contacts listed on [
 Please refer to the illustrations below. 
 请看大屏幕 (英文ONLY, 请原谅本人手写中文的本事已经废了 `:(`). 
 ![General Planning](./public/plans/general_planning.png?raw=true)
+![UI Structure](./public/plans/ui_planning.png?raw=true)
 ![Dialog Screen Planning](./public/plans/dialog_planning.png?raw=true)
 
 
