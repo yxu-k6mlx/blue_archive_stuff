@@ -23,7 +23,6 @@ window = Tk()
 window.geometry("1600x1200")
 window.configure(bg = "#FFFFFF")
 
-
 canvas = Canvas(
     window,
     bg = "#FFFFFF",
@@ -48,7 +47,7 @@ canvas.create_rectangle(
     745.0,
     1600.0,
     1200.0,
-    fill="#FFFFFF",
+    fill="#000000",
     outline="")
 
 canvas.create_rectangle(
@@ -56,7 +55,7 @@ canvas.create_rectangle(
     875.0,
     1600.0,
     1200.0,
-    fill="#FFFFFF",
+    fill="#000000",
     outline="")
 
 canvas.create_text(
