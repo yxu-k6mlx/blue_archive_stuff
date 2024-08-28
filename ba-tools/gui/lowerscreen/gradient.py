@@ -1,6 +1,8 @@
 import tkinter as tk      # py2
 # import tkinter as tk    # py3
 
+# credit: https://stackoverflow.com/questions/26178869/is-it-possible-to-apply-gradient-colours-to-bg-of-tkinter-python-widgets
+
 class Example(tk.Frame):
     def __init__(self, parent):
         tk.Frame.__init__(self, parent)
