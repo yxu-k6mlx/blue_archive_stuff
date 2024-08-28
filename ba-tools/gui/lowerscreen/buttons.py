@@ -1,17 +1,48 @@
 import tkinter as tk
 
 class Askew_Button(tk.Frame):
-    def __init__(self, parent, height=100, width=300, text=''): 
-        self.tk = parent
-        self._w = tk.Canvas(parent, background='#0000ff')
+    """
+        Control buttons in Blue Archive are askew with an angle 
+        They are defined below with create polygon with four outer vertices A->B->C->D wrapped inside its own canvas
+         A /-----/ B
+          /     /
+         /-----/
+        D      C
+        where B.x-A.x = C.x - D.x = width, D.y-A.y = C.y-D.y = height
+        and such that B.x - C.x = x_offset = A.x - D.x
+    
+    """
+    def __init__(self, root, x=0, y=0, text='', height=50, width=100, x_offset=2, padx=5, pady=5): 
+        self.tk = root
+        self.x_offset = x_offset
+        self._w = tk.Canvas(root, height=height+pady, width=width+x_offset+padx)
+
+        self.width = width 
+        self.height = height
+
+        self.Ax, self.Ay = x + x_offset + padx, y+pady
+        self.Bx, self.By = self.Ax + self.width, self.Ay
+        self.Cx, self.Cy = self.Bx - x_offset, self.Ay + self.height
+        self.Dx, self.Dy = x + padx, y + self.height + pady
+        
         self._w.create_polygon(
-            20, 0, 120, 0, 100, 50, 0, 50, outline='red'
+            self.Ax, self.Ay, 
+            self.Bx, self.By, 
+            self.Cx, self.Cy, 
+            self.Dx, self.Dy, 
+            fill = 'white'
+        )
+
+        self._w.create_text(
+            (self.Bx-self.Dx)/2, (self.Dy-self.Ay)/2, 
+            justify='center', text="AUTO", font=('Arial Narrow', height-pady, 'bold italic'), 
+            fill='blue'
         )
 
 if __name__ == '__main__': 
     test_root = tk.Tk()
-    test_button = Askew_Button(test_root)
-    test_button.place(x=10, y=10)
+    test_button = Askew_Button(test_root, x=0, y=0, height=100, width=300, x_offset=40)
+    test_button.place(x=0, y=0)
     test_root.title('Component Tester')
     test_root.mainloop() 
 
