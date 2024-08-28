@@ -50,6 +50,7 @@ class ControlBar(tk.Frame):
         auto.grid(column=0, row=0)
         menu.grid(column=1, row=0)
 
+# Component testing code: 
 if __name__ == '__main__': 
     test_root = tk.Tk()
     test_button = ControlBar(test_root, x=0, y=0, height=100, width=300, x_offset=40)
