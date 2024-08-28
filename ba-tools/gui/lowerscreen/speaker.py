@@ -2,30 +2,31 @@ import tkinter as tk
 
 class Namecard(tk.Frame): 
     def __init__(self, parent, height=0, width=0, x=0, y=0): 
-        self.char_name = ''
-        self.org_name = ''
+        self.name_str = 'Student'
+        self.from_str = 'Affiliation'
         self.tk = parent
         self._w = tk.Canvas(
             parent, height=height, width=width
         )
+        self.char_name = tk.Label(
+            self._w, justify='left', font=('Noto Sans', 50), 
+            text=self.name_str, fg='white'
+        )
 
-    def set_charname(self, char_name : str) -> None: 
-        self.char_name = char_name 
-        print(f'Character name set to {char_name}')
-    
-    def get_charname(self) -> str: 
-        return self.char_name
-    
-    def set_orgname(self, org_name : str) -> None: 
-        self.org_name = org_name
-
-    def get_orgname(self): 
-        return self.org_name
-    
-    def disp(self) -> bool: 
+        self.from_name = tk.Label(
+            self._w, justify='left', font=('Noto Sans', 40), 
+            text=self.from_str, fg='#aaddff', pady=5
+        )
         
-        return False
+        self.pad = tk.Canvas(self._w, height=50, width=5)
 
+        self.char_name.grid(column=0, row=0, sticky='sw')
+        self.pad.grid(column=1, row=0)
+        self.from_name.grid(column=2, row=0, sticky='sw')
 
 if __name__ == '__main__': 
-    pass
+    active_speaker = None # coming soon with: char sprite update! 
+    tester = tk.Tk()
+    namecard = Namecard(tester, height=100, width=900)
+    namecard.place(x=0, y=0)
+    tester.mainloop()

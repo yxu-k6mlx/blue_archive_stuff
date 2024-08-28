@@ -37,7 +37,7 @@ class Askew_Button(tk.Frame):
 
         self._w.create_text(
             (self.Bx-self.Dx)/2, (self.Dy-self.Ay)/2, 
-            justify='center', text=text, font=('Arial Narrow', height-pady, 'bold italic'), 
+            justify='center', text=text, font=('Noto Sans', height-pady, 'italic'), 
             fill='blue'
         )
 
