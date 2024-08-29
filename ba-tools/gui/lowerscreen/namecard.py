@@ -22,7 +22,7 @@ class Namecard(tk.Frame):
         self.pad = tk.Canvas(self._w, height=height, width=5, bg='black', highlightthickness=0)
 
         self.line_length = window_width
-
+        
         self.line = tk.Canvas(root, width=self.line_length, height=2, bg='#dddddd', highlightthickness=0)
         
         self.set_to_disp()
