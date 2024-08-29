@@ -34,7 +34,7 @@ class Askew_Button(tk.Frame):
             self.Bx, self.By, 
             self.Cx, self.Cy, 
             self.Dx, self.Dy, 
-            fill = 'white'
+            fill = '#f1f1f1'
         )
 
         self._w.create_text(

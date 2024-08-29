@@ -1,12 +1,12 @@
 import tkinter as tk
     
 class Namecard(tk.Frame): 
-    def __init__(self, parent, height=0, width=0, window_width=100): 
+    def __init__(self, root, height=0, width=0, window_width=100): 
         self.name_str = 'Student'
         self.from_str = 'Affiliation'
 
-        self.tk = parent
-        self._w = tk.Canvas(parent, bg='black', height=height, width=width, highlightthickness=0)
+        self.tk = root
+        self._w = tk.Canvas(root, bg='black', height=height, width=width, highlightthickness=0)
 
         self.char_name = tk.Label(
             self._w, justify='left', font=('Noto Sans', 50), 
@@ -23,7 +23,7 @@ class Namecard(tk.Frame):
 
         self.line_length = window_width
 
-        self.line = tk.Canvas(parent, width=self.line_length, height=2, bg='#dddddd', highlightthickness=0)
+        self.line = tk.Canvas(root, width=self.line_length, height=2, bg='#dddddd', highlightthickness=0)
         
         self.set_to_disp()
 
