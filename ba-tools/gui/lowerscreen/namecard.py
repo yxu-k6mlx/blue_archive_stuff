@@ -35,12 +35,9 @@ class Namecard(tk.Frame):
         self.line.grid(row=1)
         self.configure(bg='black')
 
-        self.tk.wm_attributes('-transparentcolor', 'black')
-
 if __name__ == '__main__': 
     active_speaker = None # coming soon with: char sprite update! 
     tester = tk.Tk()
-    tester.config(bg='black')
     #backdrop = NamecardBackdrop(tester, height=100, width=100)
     #backdrop.grid(column=0, row=0)
 
