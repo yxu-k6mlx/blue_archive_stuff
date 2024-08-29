@@ -1,4 +1,5 @@
 import tkinter as tk
+import math
 
 class Askew_Button(tk.Frame):
     """
@@ -13,9 +14,10 @@ class Askew_Button(tk.Frame):
     
     """
     def __init__(self, root, x=0, y=0, text='', height=50, width=100, x_offset=2, padx=5, pady=5): 
+        self.transparent = 'grey'
         self.tk = root
         self.x_offset = x_offset
-        self._w = tk.Canvas(root, height=height+pady, width=width+x_offset+padx)
+        self._w = tk.Canvas(root, height=height+pady, width=width+x_offset+padx, bg=self.transparent, highlightthickness=0)
 
         self.width = width 
         self.height = height 
@@ -37,9 +39,11 @@ class Askew_Button(tk.Frame):
 
         self._w.create_text(
             (self.Bx-self.Dx)/2, (self.Dy-self.Ay)/2, 
-            justify='center', text=text, font=('Noto Sans', height-pady, 'italic'), 
-            fill='blue'
+            justify='center', text=text, font=('Noto Sans', math.floor(height/2-pady), 'bold italic'), 
+            fill='#1111aa'
         )
+
+        root.wm_attributes('-transparentcolor', self.transparent)
 
 class ControlBar(tk.Frame): 
     def __init__(self, root, x=0, y=0, height=50, width=100, x_offset=2, padx=5, pady=5):
