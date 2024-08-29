@@ -1,5 +1,4 @@
 import tkinter as tk
-from gradient import GradientFrame
     
 class Namecard(tk.Frame): 
     def __init__(self, parent, height=0, width=0, window_width=100): 
