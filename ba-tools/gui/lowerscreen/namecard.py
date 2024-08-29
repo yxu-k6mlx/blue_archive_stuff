@@ -21,8 +21,13 @@ class Namecard(tk.Frame):
         self.rightpad = tk.Canvas(height=height, width=width, bg='black', highlightthickness=0)
         self.pad = tk.Canvas(self._w, height=height, width=5, bg='black', highlightthickness=0)
 
-        self.line = tk.Canvas(parent, width=window_width, height=2, bg='#dddddd', highlightthickness=0)
+        self.line_length = window_width
+
+        self.line = tk.Canvas(parent, width=self.line_length, height=2, bg='#dddddd', highlightthickness=0)
         
+        self.set_to_disp()
+
+    def set_to_disp(self): 
         self.char_name.grid(column=0, row=0, sticky='sw')
         self.pad.grid(column=1, row=0)
         self.from_name.grid(column=2, row=0, sticky='sw')
@@ -30,7 +35,7 @@ class Namecard(tk.Frame):
         self.line.grid(row=1)
         self.configure(bg='black')
 
-        parent.wm_attributes('-transparentcolor', 'black')
+        self.tk.wm_attributes('-transparentcolor', 'black')
 
 if __name__ == '__main__': 
     active_speaker = None # coming soon with: char sprite update! 
