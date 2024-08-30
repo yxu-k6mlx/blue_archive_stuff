@@ -4,6 +4,8 @@ class Namecard(tk.Frame):
     def __init__(self, root, height=0, width=0, window_width=100): 
         self.name_str = 'Student'
         self.from_str = 'Affiliation'
+        self.bg = '
+'
 
         self.tk = root
         self._w = tk.Canvas(root, bg='black', height=height, width=width, highlightthickness=0)
