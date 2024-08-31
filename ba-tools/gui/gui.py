@@ -4,11 +4,14 @@ from lowerscreen.namecard import Namecard
 
 if __name__ == '__main__': 
     test = tk.Tk()
+    gui_canvas = tk.Canvas(test, width=1200, height=900, bg='red')
+    gui_canvas.pack()
+
     backdrop = DialogBackdrop(test, bg_image_path='blue_archive_stuff/ba-tools/assets/data/Background/BG_HQ.jpg')
     namecard = Namecard(test, height=100, width=200, window_width=500)
     dialog = DialogText(test, line0='這是第一行字', line1='This is line 2', line2='0 1 2 3 4 5 6 7 8 9 10 11 12')
     
-    backdrop.pack()
+    backdrop.place(x=0, y=0)
     namecard.place(x=100, y=480)
     dialog.place(x=100, y=580)
     
