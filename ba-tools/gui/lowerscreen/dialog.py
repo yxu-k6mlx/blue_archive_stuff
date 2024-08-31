@@ -14,8 +14,8 @@ class DialogBackdrop(tk.Frame):
         self.bgimg.resize((1200, 900), Image.Resampling.LANCZOS)
         self.tkbg = ImageTk.PhotoImage(self.bgimg)
         
-        self._w.create_image(1200/2, 900/2, image=self.tkbg)
-        self._w.create_image(1200/2, 900/2+185, image=self.tkbd)
+        self._w.create_image(500, 900/2, image=self.tkbg)
+        self._w.create_image(500, 900/2+185, image=self.tkbd)
 
 
 class DialogText(tk.Frame): 
