@@ -25,9 +25,9 @@ class DialogText(tk.Frame):
 
         self.y_offset = 1000
 
-        self.line0 = tk.Label(self._w, text=line0, font=('Noto Sans', 40), fg='#fefefe', bg='black', padx=0, pady=0, justify='left')
-        self.line1 = tk.Label(self._w, text=line1, font=('Noto Sans', 40), fg='#fefefe', bg='black', padx=0, pady=0, justify='left')
-        self.line2 = tk.Label(self._w, text=line2, font=('Noto Sans', 40), fg='#fefefe', bg='black', padx=0, pady=0, justify='left')
+        self.line0 = tk.Label(self._w, text=line0, font=('Noto Sans SemiBold', 40), fg='#fefefe', bg='black', padx=0, pady=0, justify='left')
+        self.line1 = tk.Label(self._w, text=line1, font=('Noto Sans SemiBold', 40), fg='#fefefe', bg='black', padx=0, pady=0, justify='left')
+        self.line2 = tk.Label(self._w, text=line2, font=('Noto Sans SemiBold', 40), fg='#fefefe', bg='black', padx=0, pady=0, justify='left')
 
         self.line0.grid(column=0, row=0, sticky='sw')
         self.line1.grid(column=0, row=1, sticky='sw')
