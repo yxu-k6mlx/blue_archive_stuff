@@ -5,21 +5,21 @@ LABEL_BG = 'purple'
 
 class Namecard(tk.Frame): 
     def __init__(self, root, height=0, width=0, window_width=10): 
-        self.name_str = 'Student'
-        self.from_str = 'Affiliation'
+        self.name_str = '學生'
+        self.from_str = '俱樂部'
         self.bg = 'red'
         self.tk = root
         self._w = tk.Canvas(root, bg=LABEL_BG, height=height, width=width, highlightthickness=0)
 
         self.char_name = tk.Label(
-            self._w, justify='left', font=('Noto Sans', 40), 
+            self._w, justify='left', font=('Noto Sans SemiBold', 40), 
             text=self.name_str, fg='#fefefe', bg=LABEL_BG, highlightthickness=0
         )
 
         self.pad = tk.Canvas(self._w, height=height, width=NAME_SPLIT_WIDTH, bg=LABEL_BG, highlightthickness=0)
 
         self.from_name = tk.Label(
-            self._w, justify='left', font=('Noto Sans', 30),
+            self._w, justify='left', font=('Noto Sans SemiBold', 30),
             text=self.from_str, fg='#aaddff', pady=5, bg=LABEL_BG, highlightthickness=0
         )
 
