@@ -4,7 +4,7 @@ NAME_SPLIT_WIDTH = 20
 LABEL_BG = 'purple'
 
 class Namecard(tk.Frame): 
-    def __init__(self, root, height=0, width=0, window_width=10): 
+    def __init__(self, root, height=0, width=0, window_width=10, namesize=40, orgsize=30): 
         self.name_str = '學生'
         self.from_str = '俱樂部'
         self.bg = 'red'
@@ -12,14 +12,14 @@ class Namecard(tk.Frame):
         self._w = tk.Canvas(root, bg=LABEL_BG, height=height, width=width, highlightthickness=0)
 
         self.char_name = tk.Label(
-            self._w, justify='left', font=('Noto Sans SemiBold', 40), 
+            self._w, justify='left', font=('Noto Sans SemiBold', namesize), 
             text=self.name_str, fg='#fefefe', bg=LABEL_BG, highlightthickness=0
         )
 
         self.pad = tk.Canvas(self._w, height=height, width=NAME_SPLIT_WIDTH, bg=LABEL_BG, highlightthickness=0)
 
         self.from_name = tk.Label(
-            self._w, justify='left', font=('Noto Sans SemiBold', 30),
+            self._w, justify='left', font=('Noto Sans SemiBold', orgsize),
             text=self.from_str, fg='#aaddff', pady=5, bg=LABEL_BG, highlightthickness=0
         )
 

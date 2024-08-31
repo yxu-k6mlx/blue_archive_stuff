@@ -1,24 +1,26 @@
 import tkinter as tk
+from PIL import Image, ImageTk
 
 class DispArea(tk.Frame): 
-    def __init__(self, root, v_limit=0, h_limit=0): 
+    def __init__(self, root, v_limit=0, h_limit=0, chars=[None]*5): 
         self.tk = root 
-        self.width, self.height = self.calculate_position(v_limit=v_limit, h_limit=h_limit)
+        self.width = v_limit
+        self.height = h_limit
+        self._w = tk.Canvas(root, width=250, height=700, bg='purple', highlightthickness=0)
 
-        self._w = tk.Canvas(root, width=self.width, height=self.height, bg='black') 
-        
-        self._w.grid(column=0,row=0)
+    def parsechar(self, charname): 
+        char = Image.open(f'blue_archive_stuff/ba-tools/assets/data/Sprites/{charname}.png')
+        char = char.resize((400, 800), Image.Resampling.LANCZOS)
+        tkchar = ImageTk.PhotoImage(char)
+        return tkchar
 
-    def text_to_disp(self, root, text): 
-        self.text = text 
-        self.label = tk.Label(root, text=self.text, fg='white', font=('Noto Sans', 50, 'bold'))
-
-    def calculate_position(self, v_limit, h_limit): 
-        v_ratio = 0.4
-        return (1-v_ratio)*v_limit, h_limit
+    def dispchar(self, tkchar, position=2): 
+        self._w.create_image(100, 400, image=tkchar)
 
 if __name__ == '__main__': 
     test = tk.Tk() 
-    disp_area = DispArea(test, v_limit=1000, h_limit=200)
-    
+    disp_area = DispArea(test, v_limit=200, h_limit=400)
+    tkchar = disp_area.parsechar('yukka')
+    disp_area.dispchar(tkchar)
+    disp_area.pack() 
     test.mainloop()
