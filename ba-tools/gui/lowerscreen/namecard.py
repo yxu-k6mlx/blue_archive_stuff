@@ -1,7 +1,7 @@
 import tkinter as tk
 
 NAME_SPLIT_WIDTH = 20
-LABEL_BG = 'purple'
+LABEL_BG = None
 
 class Namecard(tk.Frame): 
     def __init__(self, root, height=0, width=0, window_width=10, namesize=40, orgsize=30): 

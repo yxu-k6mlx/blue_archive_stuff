@@ -6,7 +6,7 @@ from middlescreen.display import DispArea
 class SceneDisp(tk.Frame): 
     def __init__(self, root, w_limit=1200, h_limit=900): 
         self.tk = root
-        self._w = tk.Canvas(root, width=w_limit, height=h_limit)
+        self._w = tk.Canvas(root, width=w_limit, height=h_limit, bg=None)
         self.backdrop = DialogBackdrop(test, bg_image_path='blue_archive_stuff/ba-tools/assets/data/Background/BG_HQ.jpg')
         self.namecard = Namecard(test, height=100, width=200, window_width=500, namesize=40, orgsize=35)
         self.dialog = DialogText(test, line0='這是第一行字 0 1 2 3 4 5 6', line1='This is line 2', line2='0 1 2 3 4 5 6 7 8 9 10 11 12', textsize=35)
