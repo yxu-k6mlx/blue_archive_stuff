@@ -3,6 +3,8 @@ from lowerscreen.dialog import DialogBackdrop, DialogText
 from lowerscreen.namecard import Namecard
 from middlescreen.display import DispArea
 
+import platform
+
 class SceneDisp(tk.Frame): 
     def __init__(self, root, w_limit=1200, h_limit=900): 
         self.tk = root
