@@ -1,0 +1,809 @@
+{
+    "talkId": 143,
+    "talkHistory": [
+        {
+            "Id": 36,
+            "Name": "systemInfo",
+            "Avatar": "",
+            "type": 4,
+            "flag": 0,
+            "content": "第一集 第一幕"
+        },
+        {
+            "Id": 42,
+            "Name": "systemInfo",
+            "Avatar": "",
+            "type": 4,
+            "flag": 0,
+            "content": "佈景: 午夜無燈的夏萊辦公室 "
+        },
+        {
+            "Id": 72,
+            "Name": "systemInfo",
+            "Avatar": "",
+            "type": 4,
+            "flag": 0,
+            "content": "老師獨自一人坐在辦公桌前對著未通電的希迪姆的箱子喃喃自語"
+        },
+        {
+            "Id": 45,
+            "Name": "sensei",
+            "Avatar": "",
+            "type": 1,
+            "flag": 2,
+            "content": "唉, 聯邦學生會長, 你可真是給我丟了個爛攤子啊"
+        },
+        {
+            "Id": 64,
+            "Name": "sensei",
+            "Avatar": "",
+            "type": 1,
+            "flag": 0,
+            "content": "我真的是, 盡全力了啊..."
+        },
+        {
+            "Id": 46,
+            "Name": "systemInfo",
+            "Avatar": "",
+            "type": 4,
+            "flag": 2,
+            "content": "看著手裡銀閃閃的Beretta M9, 老師想起了那個下午"
+        },
+        {
+            "Id": 47,
+            "Name": "優香",
+            "Avatar": "https://schaledb.com/images/student/collection/13010.webp",
+            "type": 0,
+            "flag": 2,
+            "content": "就算七神行政官那樣說了"
+        },
+        {
+            "Id": 49,
+            "Name": "優香",
+            "Avatar": "https://schaledb.com/images/student/collection/13010.webp",
+            "type": 0,
+            "flag": 0,
+            "content": "我也不能同意讓這個外來的大人就這樣出門"
+        },
+        {
+            "Id": 52,
+            "Name": "優香",
+            "Avatar": "https://schaledb.com/images/student/collection/13010.webp",
+            "type": 0,
+            "flag": 0,
+            "content": "在奇普托斯手無寸鐵果然還是不行"
+        },
+        {
+            "Id": 50,
+            "Name": "sensei",
+            "Avatar": "",
+            "type": 1,
+            "flag": 2,
+            "content": "雖然我手無寸鐵在槍戰房裏生活已經習慣了"
+        },
+        {
+            "Id": 51,
+            "Name": "sensei",
+            "Avatar": "",
+            "type": 1,
+            "flag": 0,
+            "content": "但是優香同學說的也有道理"
+        },
+        {
+            "Id": 53,
+            "Name": "sensei",
+            "Avatar": "",
+            "type": 1,
+            "flag": 0,
+            "content": "Yuuka, if I may address you so, 幫我挑一把好不好? "
+        },
+        {
+            "Id": 54,
+            "Name": "優香",
+            "Avatar": "https://schaledb.com/images/student/collection/13010.webp",
+            "type": 0,
+            "flag": 2,
+            "content": "啊... 當然可以. 讓我想想... 就這個好啦! "
+        },
+        {
+            "Id": 55,
+            "Name": "systemInfo",
+            "Avatar": "",
+            "type": 4,
+            "flag": 2,
+            "content": "思緒回到現實, 老師下定了決心"
+        },
+        {
+            "Id": 56,
+            "Name": "systemInfo",
+            "Avatar": "",
+            "type": 4,
+            "flag": 0,
+            "content": "喀噠~ 叮~"
+        },
+        {
+            "Id": 65,
+            "Name": "systemInfo",
+            "Avatar": "",
+            "type": 4,
+            "flag": 0,
+            "content": "老師把槍口轉向自己"
+        },
+        {
+            "Id": 59,
+            "Name": "systemInfo",
+            "Avatar": "",
+            "type": 4,
+            "flag": 0,
+            "content": "嘭!"
+        },
+        {
+            "Id": 60,
+            "Name": "sensei",
+            "Avatar": "",
+            "type": 1,
+            "flag": 2,
+            "content": "好耶! 一發就中了! "
+        },
+        {
+            "Id": 61,
+            "Name": "sensei",
+            "Avatar": "",
+            "type": 1,
+            "flag": 0,
+            "content": "就覺得最近幾天好像有人在盯著我一樣"
+        },
+        {
+            "Id": 62,
+            "Name": "sensei",
+            "Avatar": "",
+            "type": 1,
+            "flag": 0,
+            "content": "是哪個小天才居然能把無線攝像頭粘在那種地方啊"
+        },
+        {
+            "Id": 63,
+            "Name": "sensei",
+            "Avatar": "",
+            "type": 1,
+            "flag": 0,
+            "content": "幹 要不是關了燈我還沒看見"
+        },
+        {
+            "Id": 66,
+            "Name": "systemInfo",
+            "Avatar": "",
+            "type": 4,
+            "flag": 2,
+            "content": "老師從桌前站了起來"
+        },
+        {
+            "Id": 67,
+            "Name": "sensei",
+            "Avatar": "",
+            "type": 1,
+            "flag": 2,
+            "content": "話說回來, 那個攝像頭會是誰裝的呢? "
+        },
+        {
+            "Id": 68,
+            "Name": "sensei",
+            "Avatar": "",
+            "type": 1,
+            "flag": 0,
+            "content": "嘛, 不論是誰, 現在屏幕那一邊的人一定被嚇壞了吧哈哈"
+        },
+        {
+            "Id": 69,
+            "Name": "sensei",
+            "Avatar": "",
+            "type": 1,
+            "flag": 0,
+            "content": "好啦, 是時候下班啦~🎵"
+        },
+        {
+            "Id": 70,
+            "Name": "systemInfo",
+            "Avatar": "",
+            "type": 4,
+            "flag": 2,
+            "content": "第一集 第二幕"
+        },
+        {
+            "Id": 71,
+            "Name": "systemInfo",
+            "Avatar": "",
+            "type": 4,
+            "flag": 0,
+            "content": "佈景: 晝夜不明的真理部活動室內部"
+        },
+        {
+            "Id": 73,
+            "Name": "真紀",
+            "Avatar": "https://schaledb.com/images/student/collection/10007.webp",
+            "type": 0,
+            "flag": 2,
+            "content": "嗚哇啊啊啊啊啊啊啊啊——————! "
+        },
+        {
+            "Id": 74,
+            "Name": "真紀",
+            "Avatar": "https://schaledb.com/images/student/collection/10007.webp",
+            "type": 0,
+            "flag": 0,
+            "content": "老師——————! "
+        },
+        {
+            "Id": 75,
+            "Name": "小玉",
+            "Avatar": "https://schaledb.com/images/student/collection/26001.webp",
+            "type": 0,
+            "flag": 2,
+            "content": "啊啊啊啊啊啊———————— (尖叫)"
+        },
+        {
+            "Id": 76,
+            "Name": "千尋",
+            "Avatar": "https://schaledb.com/images/student/collection/20013.webp",
+            "type": 0,
+            "flag": 2,
+            "content": "你們兩個在搞什麼? "
+        },
+        {
+            "Id": 77,
+            "Name": "真紀",
+            "Avatar": "https://schaledb.com/images/student/collection/10007.webp",
+            "type": 0,
+            "flag": 2,
+            "content": "千... 千尋前輩... 你看"
+        },
+        {
+            "Id": 78,
+            "Name": "systemInfo",
+            "Avatar": "",
+            "type": 4,
+            "flag": 2,
+            "content": "真紀用面前的電腦重新播放了一遍"
+        },
+        {
+            "Id": 79,
+            "Name": "sensei",
+            "Avatar": "",
+            "type": 1,
+            "flag": 2,
+            "content": "唉, 聯邦學生會長, 你可真是給我丟了個爛攤子啊"
+        },
+        {
+            "Id": 80,
+            "Name": "sensei",
+            "Avatar": "",
+            "type": 1,
+            "flag": 0,
+            "content": "我真的是, 盡全力了啊..."
+        },
+        {
+            "Id": 81,
+            "Name": "回覆",
+            "Avatar": "",
+            "type": 3,
+            "flag": 2,
+            "content": "(對自己開槍)"
+        },
+        {
+            "Id": 83,
+            "Name": "真紀",
+            "Avatar": "https://schaledb.com/images/student/collection/10007.webp",
+            "type": 0,
+            "flag": 2,
+            "content": "千尋前輩... 怎麼辦啊... 老師他"
+        },
+        {
+            "Id": 84,
+            "Name": "千尋",
+            "Avatar": "https://schaledb.com/images/student/collection/20013.webp",
+            "type": 0,
+            "flag": 2,
+            "content": "不行, 這個消息絕對不能走漏出去, 至少不能從我們這裡"
+        },
+        {
+            "Id": 85,
+            "Name": "千尋",
+            "Avatar": "https://schaledb.com/images/student/collection/20013.webp",
+            "type": 0,
+            "flag": 0,
+            "content": "我現在就去找陽葵前輩"
+        },
+        {
+            "Id": 88,
+            "Name": "千尋",
+            "Avatar": "https://schaledb.com/images/student/collection/20013.webp",
+            "type": 0,
+            "flag": 0,
+            "content": "小晴可以幫助監控一下媒體報導嗎? "
+        },
+        {
+            "Id": 87,
+            "Name": "晴",
+            "Avatar": "https://schaledb.com/images/student/collection/23003.webp",
+            "type": 0,
+            "flag": 2,
+            "content": "..."
+        },
+        {
+            "Id": 89,
+            "Name": "千尋",
+            "Avatar": "https://schaledb.com/images/student/collection/20013.webp",
+            "type": 0,
+            "flag": 2,
+            "content": "小晴? "
+        },
+        {
+            "Id": 90,
+            "Name": "晴",
+            "Avatar": "https://schaledb.com/images/student/collection/23003.webp",
+            "type": 0,
+            "flag": 2,
+            "content": "{直挺挺地倒在地上}"
+        },
+        {
+            "Id": 91,
+            "Name": "千尋",
+            "Avatar": "https://schaledb.com/images/student/collection/20013.webp",
+            "type": 0,
+            "flag": 2,
+            "content": "..."
+        },
+        {
+            "Id": 92,
+            "Name": "千尋",
+            "Avatar": "https://schaledb.com/images/student/collection/20013.webp",
+            "type": 0,
+            "flag": 0,
+            "content": "{眼前一黑}"
+        },
+        {
+            "Id": 93,
+            "Name": "小玉",
+            "Avatar": "https://schaledb.com/images/student/collection/26001.webp",
+            "type": 0,
+            "flag": 2,
+            "content": "老... 老師... 前輩... 不要... "
+        },
+        {
+            "Id": 94,
+            "Name": "小玉",
+            "Avatar": "https://schaledb.com/images/student/collection/26001.webp",
+            "type": 0,
+            "flag": 0,
+            "content": "AED, AED在哪裡? "
+        },
+        {
+            "Id": 95,
+            "Name": "真紀",
+            "Avatar": "https://schaledb.com/images/student/collection/10007.webp",
+            "type": 0,
+            "flag": 2,
+            "content": "我... 我去報警... 不對不對不對不能暴露...\n"
+        },
+        {
+            "Id": 96,
+            "Name": "真紀",
+            "Avatar": "https://schaledb.com/images/student/collection/10007.webp",
+            "type": 0,
+            "flag": 0,
+            "content": "老師? 老師剛剛都已經..."
+        },
+        {
+            "Id": 97,
+            "Name": "真紀",
+            "Avatar": "https://schaledb.com/images/student/collection/10007.webp",
+            "type": 0,
+            "flag": 0,
+            "content": "對, 對了, 優香前輩應該在遊戲開發部! "
+        },
+        {
+            "Id": 98,
+            "Name": "真紀",
+            "Avatar": "https://schaledb.com/images/student/collection/10007.webp",
+            "type": 0,
+            "flag": 0,
+            "content": "我去找優香前輩! "
+        },
+        {
+            "Id": 99,
+            "Name": "systemInfo",
+            "Avatar": "",
+            "type": 4,
+            "flag": 2,
+            "content": "第一集 第三幕"
+        },
+        {
+            "Id": 100,
+            "Name": "systemInfo",
+            "Avatar": "",
+            "type": 4,
+            "flag": 0,
+            "content": "佈景: 遊戲開發部. 四小隻在和優香一起組隊打遊戲. "
+        },
+        {
+            "Id": 101,
+            "Name": "優香",
+            "Avatar": "https://schaledb.com/images/student/collection/13010.webp",
+            "type": 0,
+            "flag": 2,
+            "content": "欸欸欸? 這是哪裡? 炸彈點又在哪裡? "
+        },
+        {
+            "Id": 102,
+            "Name": "柚子",
+            "Avatar": "https://schaledb.com/images/student/collection/10018.webp",
+            "type": 0,
+            "flag": 2,
+            "content": "小桃, 你在2點上丟個水切"
+        },
+        {
+            "Id": 103,
+            "Name": "桃井",
+            "Avatar": "https://schaledb.com/images/student/collection/13011.webp",
+            "type": 0,
+            "flag": 2,
+            "content": "ok, 2點. 在切了! "
+        },
+        {
+            "Id": 104,
+            "Name": "綠",
+            "Avatar": "https://schaledb.com/images/student/collection/10016.webp",
+            "type": 0,
+            "flag": 2,
+            "content": "優香前輩為什麼在一樓? 我們不是在打二樓點嗎? "
+        },
+        {
+            "Id": 105,
+            "Name": "愛麗絲",
+            "Avatar": "https://schaledb.com/images/student/collection/10015.webp",
+            "type": 0,
+            "flag": 2,
+            "content": "愛麗絲知道! 這個叫'垂直戰術'! 想不到優香同學居然第一次打排名賽就這樣兇猛! "
+        },
+        {
+            "Id": 106,
+            "Name": "綠",
+            "Avatar": "https://schaledb.com/images/student/collection/10016.webp",
+            "type": 0,
+            "flag": 2,
+            "content": "不愧是優香前輩啊..."
+        },
+        {
+            "Id": 121,
+            "Name": "systemInfo",
+            "Avatar": "",
+            "type": 4,
+            "flag": 2,
+            "content": "5 : 4"
+        },
+        {
+            "Id": 107,
+            "Name": "優香",
+            "Avatar": "https://schaledb.com/images/student/collection/13010.webp",
+            "type": 0,
+            "flag": 2,
+            "content": "欸欸欸??? "
+        },
+        {
+            "Id": 108,
+            "Name": "優香",
+            "Avatar": "https://schaledb.com/images/student/collection/13010.webp",
+            "type": 0,
+            "flag": 0,
+            "content": "這是什麼敵人? 為什麼打倒我以後趴在我身上了? "
+        },
+        {
+            "Id": 109,
+            "Name": "柚子",
+            "Avatar": "https://schaledb.com/images/student/collection/10018.webp",
+            "type": 0,
+            "flag": 2,
+            "content": "壞了! 快撤出去! "
+        },
+        {
+            "Id": 110,
+            "Name": "柚子",
+            "Avatar": "https://schaledb.com/images/student/collection/10018.webp",
+            "type": 0,
+            "flag": 0,
+            "content": "小桃注意一下書房一個鋼琴一個"
+        },
+        {
+            "Id": 122,
+            "Name": "systemInfo",
+            "Avatar": "",
+            "type": 4,
+            "flag": 2,
+            "content": "4 : 3"
+        },
+        {
+            "Id": 111,
+            "Name": "桃井",
+            "Avatar": "https://schaledb.com/images/student/collection/13011.webp",
+            "type": 0,
+            "flag": 2,
+            "content": "欸欸欸? 鋼琴? 我已經在放拆彈器了欸? "
+        },
+        {
+            "Id": 112,
+            "Name": "綠",
+            "Avatar": "https://schaledb.com/images/student/collection/10016.webp",
+            "type": 0,
+            "flag": 2,
+            "content": "壞了, 姐姐有危險! 我來支援! "
+        },
+        {
+            "Id": 113,
+            "Name": "優香",
+            "Avatar": "https://schaledb.com/images/student/collection/13010.webp",
+            "type": 0,
+            "flag": 2,
+            "content": "啊... 死了..."
+        },
+        {
+            "Id": 123,
+            "Name": "systemInfo",
+            "Avatar": "",
+            "type": 4,
+            "flag": 2,
+            "content": "3 : 2"
+        },
+        {
+            "Id": 114,
+            "Name": "桃井",
+            "Avatar": "https://schaledb.com/images/student/collection/13011.webp",
+            "type": 0,
+            "flag": 2,
+            "content": "哭呀西~! "
+        },
+        {
+            "Id": 125,
+            "Name": "桃井",
+            "Avatar": "https://schaledb.com/images/student/collection/13011.webp",
+            "type": 0,
+            "flag": 0,
+            "content": "還好包已經下完了, 他們來不及上樓拆的"
+        },
+        {
+            "Id": 124,
+            "Name": "systemInfo",
+            "Avatar": "",
+            "type": 4,
+            "flag": 2,
+            "content": "2 : 2"
+        },
+        {
+            "Id": 115,
+            "Name": "愛麗絲",
+            "Avatar": "https://schaledb.com/images/student/collection/10015.webp",
+            "type": 0,
+            "flag": 2,
+            "content": "愛麗絲就位! 愛麗絲會用遙控車保護拆彈器! "
+        },
+        {
+            "Id": 116,
+            "Name": "柚子",
+            "Avatar": "https://schaledb.com/images/student/collection/10018.webp",
+            "type": 0,
+            "flag": 2,
+            "content": "不, 愛麗絲, 你也最好一起撤出去..."
+        },
+        {
+            "Id": 117,
+            "Name": "愛麗絲",
+            "Avatar": "https://schaledb.com/images/student/collection/10015.webp",
+            "type": 0,
+            "flag": 2,
+            "content": "欸欸欸?! 什麼叫'你的位置已暴露'?? "
+        },
+        {
+            "Id": 118,
+            "Name": "愛麗絲",
+            "Avatar": "https://schaledb.com/images/student/collection/10015.webp",
+            "type": 0,
+            "flag": 0,
+            "content": "啊, 有人在從樓下射擊愛麗絲! "
+        },
+        {
+            "Id": 119,
+            "Name": "愛麗絲",
+            "Avatar": "https://schaledb.com/images/student/collection/10015.webp",
+            "type": 0,
+            "flag": 0,
+            "content": "光呀!!!!"
+        },
+        {
+            "Id": 126,
+            "Name": "systemInfo",
+            "Avatar": "",
+            "type": 4,
+            "flag": 2,
+            "content": "2 : 1"
+        },
+        {
+            "Id": 127,
+            "Name": "愛麗絲",
+            "Avatar": "https://schaledb.com/images/student/collection/10015.webp",
+            "type": 0,
+            "flag": 2,
+            "content": "啊 愛麗絲被從背後打倒了! "
+        },
+        {
+            "Id": 128,
+            "Name": "愛麗絲",
+            "Avatar": "https://schaledb.com/images/student/collection/10015.webp",
+            "type": 0,
+            "flag": 0,
+            "content": "愛麗絲被審問啦! "
+        },
+        {
+            "Id": 129,
+            "Name": "systemInfo",
+            "Avatar": "",
+            "type": 4,
+            "flag": 2,
+            "content": "2 : 1"
+        },
+        {
+            "Id": 130,
+            "Name": "綠",
+            "Avatar": "https://schaledb.com/images/student/collection/10016.webp",
+            "type": 0,
+            "flag": 2,
+            "content": "欸欸欸?!?! 哭呀西——"
+        },
+        {
+            "Id": 132,
+            "Name": "綠",
+            "Avatar": "https://schaledb.com/images/student/collection/10016.webp",
+            "type": 0,
+            "flag": 0,
+            "content": "一樓廚房"
+        },
+        {
+            "Id": 131,
+            "Name": "systemInfo",
+            "Avatar": "",
+            "type": 4,
+            "flag": 2,
+            "content": "1 : 1"
+        },
+        {
+            "Id": 133,
+            "Name": "柚子",
+            "Avatar": "https://schaledb.com/images/student/collection/10018.webp",
+            "type": 0,
+            "flag": 2,
+            "content": "知道了, 謝謝小綠的犧牲"
+        },
+        {
+            "Id": 134,
+            "Name": "systemInfo",
+            "Avatar": "",
+            "type": 4,
+            "flag": 2,
+            "content": "0 : 1"
+        },
+        {
+            "Id": 142,
+            "Name": "systemInfo",
+            "Avatar": "",
+            "type": 4,
+            "flag": 0,
+            "content": "綜上所述, Momotalk也可以用來直播彩6"
+        },
+        {
+            "Id": 135,
+            "Name": "優香",
+            "Avatar": "https://schaledb.com/images/student/collection/13010.webp",
+            "type": 0,
+            "flag": 2,
+            "content": "總算是有驚無險呢..."
+        },
+        {
+            "Id": 136,
+            "Name": "桃井",
+            "Avatar": "https://schaledb.com/images/student/collection/13011.webp",
+            "type": 0,
+            "flag": 2,
+            "content": "好耶! 贏啦! 距離我的冠軍夢又近一步! "
+        },
+        {
+            "Id": 137,
+            "Name": "綠",
+            "Avatar": "https://schaledb.com/images/student/collection/10016.webp",
+            "type": 0,
+            "flag": 2,
+            "content": "Copper III... 確實長路漫漫啊姐姐"
+        },
+        {
+            "Id": 138,
+            "Name": "優香",
+            "Avatar": "https://schaledb.com/images/student/collection/13010.webp",
+            "type": 0,
+            "flag": 2,
+            "content": "話說, 柚子的那個紫色徽章是? "
+        },
+        {
+            "Id": 139,
+            "Name": "愛麗絲",
+            "Avatar": "https://schaledb.com/images/student/collection/10015.webp",
+            "type": 0,
+            "flag": 2,
+            "content": "愛麗絲知道! 柚子的玩家等級為Champion! "
+        },
+        {
+            "Id": 140,
+            "Name": "真紀",
+            "Avatar": "https://schaledb.com/images/student/collection/10007.webp",
+            "type": 0,
+            "flag": 2,
+            "content": "優香前輩————"
+        },
+        {
+            "Id": 141,
+            "Name": "真紀",
+            "Avatar": "https://schaledb.com/images/student/collection/10007.webp",
+            "type": 0,
+            "flag": 0,
+            "content": "救... 真理部... 快救人... "
+        }
+    ],
+    "selectList": [
+        {
+            "Id": 10018,
+            "Name": "柚子",
+            "Avatar": "https://schaledb.com/images/student/collection/10018.webp"
+        },
+        {
+            "Id": 13011,
+            "Name": "桃井",
+            "Avatar": "https://schaledb.com/images/student/collection/13011.webp"
+        },
+        {
+            "Id": 10015,
+            "Name": "愛麗絲",
+            "Avatar": "https://schaledb.com/images/student/collection/10015.webp"
+        },
+        {
+            "Id": 10016,
+            "Name": "綠",
+            "Avatar": "https://schaledb.com/images/student/collection/10016.webp"
+        },
+        {
+            "Id": 13010,
+            "Name": "優香",
+            "Avatar": "https://schaledb.com/images/student/collection/13010.webp"
+        },
+        {
+            "Id": 20020,
+            "Name": "陽葵",
+            "Avatar": "https://schaledb.com/images/student/collection/20020.webp"
+        },
+        {
+            "Id": 20013,
+            "Name": "千尋",
+            "Avatar": "https://schaledb.com/images/student/collection/20013.webp"
+        },
+        {
+            "Id": 26001,
+            "Name": "小玉",
+            "Avatar": "https://schaledb.com/images/student/collection/26001.webp"
+        },
+        {
+            "Id": 23003,
+            "Name": "晴",
+            "Avatar": "https://schaledb.com/images/student/collection/23003.webp"
+        },
+        {
+            "Id": 10007,
+            "Name": "真紀",
+            "Avatar": "https://schaledb.com/images/student/collection/10007.webp"
+        }
+    ]
+}
