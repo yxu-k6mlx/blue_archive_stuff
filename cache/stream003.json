@@ -1,0 +1,304 @@
+{
+    "talkId": 44,
+    "talkHistory": [
+        {
+            "Id": 0,
+            "Name": "麻衣",
+            "Avatar": "https://BlueArcbox.github.io/resources/Avatars/Mai.webp",
+            "type": 0,
+            "flag": 2,
+            "content": "晚上好, 現在是奇普托斯標準時間23:45. "
+        },
+        {
+            "Id": 1,
+            "Name": "舞",
+            "Avatar": "https://BlueArcbox.github.io/resources/Avatars/Mai.webp",
+            "type": 0,
+            "flag": 0,
+            "content": "感謝收聽740 AM, 102.3 KRNS克洛盧斯新聞台. "
+        },
+        {
+            "Id": 2,
+            "Name": "舞",
+            "Avatar": "https://BlueArcbox.github.io/resources/Avatars/Mai.webp",
+            "type": 0,
+            "flag": 0,
+            "content": "我是來自克洛盧斯新聞部的—— 風卷麻衣"
+        },
+        {
+            "Id": 3,
+            "Name": "詩乃",
+            "Avatar": "https://BlueArcbox.github.io/resources/Avatars/Shinon.webp",
+            "type": 0,
+            "flag": 2,
+            "content": "而我是奇普托斯新聞界的新星—— 川流詩音! "
+        },
+        {
+            "Id": 4,
+            "Name": "詩乃",
+            "Avatar": "https://BlueArcbox.github.io/resources/Avatars/Shinon.webp",
+            "type": 0,
+            "flag": 0,
+            "content": "下面是9月11日的新聞和報紙摘要"
+        },
+        {
+            "Id": 9,
+            "Name": "麻衣",
+            "Avatar": "https://BlueArcbox.github.io/resources/Avatars/Mai.webp",
+            "type": 0,
+            "flag": 2,
+            "content": "百鬼夜行的'災厄之狐'再次成功逃獄\n"
+        },
+        {
+            "Id": 10,
+            "Name": "舞",
+            "Avatar": "https://BlueArcbox.github.io/resources/Avatars/Mai.webp",
+            "type": 0,
+            "flag": 0,
+            "content": "據在場的聯邦學生會成員稱, \n'災厄之狐'再次金蟬脫殼 已經是本月開始以來的第11次"
+        },
+        {
+            "Id": 11,
+            "Name": "舞",
+            "Avatar": "https://BlueArcbox.github.io/resources/Avatars/Mai.webp",
+            "type": 0,
+            "flag": 0,
+            "content": "網絡論壇中\n對於出門拍到'災厄之狐'這個話題的熱情亦是愈演愈烈"
+        },
+        {
+            "Id": 12,
+            "Name": "舞",
+            "Avatar": "https://BlueArcbox.github.io/resources/Avatars/Mai.webp",
+            "type": 0,
+            "flag": 0,
+            "content": "夏萊是否存在老師因為\n私慾公然干涉司法正義這樣的質疑也一時間衝上熱搜"
+        },
+        {
+            "Id": 13,
+            "Name": "詩乃",
+            "Avatar": "https://BlueArcbox.github.io/resources/Avatars/Shinon.webp",
+            "type": 0,
+            "flag": 2,
+            "content": "夏萊目前還沒有對我們的採訪邀請做出回應"
+        },
+        {
+            "Id": 16,
+            "Name": "詩乃",
+            "Avatar": "https://BlueArcbox.github.io/resources/Avatars/Shinon.webp",
+            "type": 0,
+            "flag": 1,
+            "content": "下一則新聞: "
+        },
+        {
+            "Id": 15,
+            "Name": "詩乃",
+            "Avatar": "https://BlueArcbox.github.io/resources/Avatars/Shinon.webp",
+            "type": 0,
+            "flag": 0,
+            "content": "千年因會長調月莉央因涉嫌貪污, 瀆職, 謀殺未遂等\n多項指控再次被研討會其他成員彈劾"
+        },
+        {
+            "Id": 17,
+            "Name": "詩乃",
+            "Avatar": "https://BlueArcbox.github.io/resources/Avatars/Shinon.webp",
+            "type": 0,
+            "flag": 0,
+            "content": "因本案涉及金額巨大, 並有夏萊的深度參與\n調月莉央的定罪量刑將會由夏萊決定\n"
+        },
+        {
+            "Id": 18,
+            "Name": "詩乃",
+            "Avatar": "https://BlueArcbox.github.io/resources/Avatars/Shinon.webp",
+            "type": 0,
+            "flag": 0,
+            "content": "目前因為此次事件, 千年股市亦受重創"
+        },
+        {
+            "Id": 19,
+            "Name": "詩乃",
+            "Avatar": "https://BlueArcbox.github.io/resources/Avatars/Shinon.webp",
+            "type": 0,
+            "flag": 0,
+            "content": "NiceDuck一瀉千里 由過去52週的最高點3,174.27下滑至"
+        },
+        {
+            "Id": 20,
+            "Name": "詩乃",
+            "Avatar": "https://BlueArcbox.github.io/resources/Avatars/Shinon.webp",
+            "type": 0,
+            "flag": 0,
+            "content": "目前的2,723.33點, 累計-238.03 (-8.04%). "
+        },
+        {
+            "Id": 22,
+            "Name": "麻衣",
+            "Avatar": "https://BlueArcbox.github.io/resources/Avatars/Mai.webp",
+            "type": 0,
+            "flag": 2,
+            "content": "而象徵千年工業的MOP指數, 也從過去52週內最高點"
+        },
+        {
+            "Id": 23,
+            "Name": "舞",
+            "Avatar": "https://BlueArcbox.github.io/resources/Avatars/Mai.webp",
+            "type": 0,
+            "flag": 0,
+            "content": "也就是10,421.56, 下降到了8,076.46點, \n總計下降1,323.79點, 總體降幅14.08%. "
+        },
+        {
+            "Id": 25,
+            "Name": "詩乃",
+            "Avatar": "https://BlueArcbox.github.io/resources/Avatars/Shinon.webp",
+            "type": 0,
+            "flag": 2,
+            "content": "聽起來真慘啊"
+        },
+        {
+            "Id": 26,
+            "Name": "詩乃",
+            "Avatar": "https://BlueArcbox.github.io/resources/Avatars/Shinon.webp",
+            "type": 0,
+            "flag": 0,
+            "content": "下一則新聞: "
+        },
+        {
+            "Id": 27,
+            "Name": "詩乃",
+            "Avatar": "https://BlueArcbox.github.io/resources/Avatars/Shinon.webp",
+            "type": 0,
+            "flag": 0,
+            "content": "奇普托斯過去3個月內連續發生多起'江湖怪盜'事件"
+        },
+        {
+            "Id": 28,
+            "Name": "詩乃",
+            "Avatar": "https://BlueArcbox.github.io/resources/Avatars/Shinon.webp",
+            "type": 0,
+            "flag": 0,
+            "content": "多家銀行和貴金屬店慘遭洗劫"
+        },
+        {
+            "Id": 29,
+            "Name": "詩乃",
+            "Avatar": "https://BlueArcbox.github.io/resources/Avatars/Shinon.webp",
+            "type": 0,
+            "flag": 0,
+            "content": "但失竊物資每次都會在7天內被原封不動地歸還回去"
+        },
+        {
+            "Id": 30,
+            "Name": "詩乃",
+            "Avatar": "https://BlueArcbox.github.io/resources/Avatars/Shinon.webp",
+            "type": 0,
+            "flag": 0,
+            "content": "更有受害銀行稱願高價聘請怪盜為安全顧問"
+        },
+        {
+            "Id": 31,
+            "Name": "麻衣",
+            "Avatar": "https://BlueArcbox.github.io/resources/Avatars/Mai.webp",
+            "type": 0,
+            "flag": 2,
+            "content": "接下來有請夏萊贊助的智能AI語音助手來為介紹一下\n奇普托斯各地區的天氣情況"
+        },
+        {
+            "Id": 34,
+            "Name": "星奈",
+            "Avatar": "https://BlueArcbox.github.io/resources/Avatars/Purana.webp",
+            "type": 0,
+            "flag": 2,
+            "content": "好的, 感謝克洛盧斯的前輩, 接下來就由我——\n"
+        },
+        {
+            "Id": 36,
+            "Name": "星奈",
+            "Avatar": "https://BlueArcbox.github.io/resources/Avatars/Purana.webp",
+            "type": 0,
+            "flag": 0,
+            "content": "希迪姆的箱子的人工智能管理者為大家帶來最新天氣... "
+        },
+        {
+            "Id": 35,
+            "Name": "星奈",
+            "Avatar": "https://BlueArcbox.github.io/resources/Avatars/Purana.webp",
+            "type": 0,
+            "flag": 0,
+            "content": "克洛盧斯及附近區域受北方氣流影響, \n將會提早迎來今秋的第一場雪. "
+        },
+        {
+            "Id": 37,
+            "Name": "星奈",
+            "Avatar": "https://BlueArcbox.github.io/resources/Avatars/Purana.webp",
+            "type": 0,
+            "flag": 0,
+            "content": "氣溫也會逐步從目前的30ºC, 穩步回歸到-20ºC"
+        },
+        {
+            "Id": 38,
+            "Name": "星奈",
+            "Avatar": "https://BlueArcbox.github.io/resources/Avatars/Purana.webp",
+            "type": 0,
+            "flag": 0,
+            "content": "..."
+        },
+        {
+            "Id": 39,
+            "Name": "回覆",
+            "Avatar": "",
+            "type": 3,
+            "flag": 2,
+            "content": "關掉收音機"
+        },
+        {
+            "Id": 41,
+            "Name": "sensei",
+            "Avatar": "",
+            "type": 1,
+            "flag": 2,
+            "content": "這樣的話, 星奈就算我不在線上也不會無聊了"
+        },
+        {
+            "Id": 42,
+            "Name": "sensei",
+            "Avatar": "",
+            "type": 1,
+            "flag": 0,
+            "content": "還能給自己慢慢積累一些信用點"
+        },
+        {
+            "Id": 43,
+            "Name": "sensei",
+            "Avatar": "",
+            "type": 1,
+            "flag": 0,
+            "content": "千年的事情也告一段落, 接下來應該做點什麼呢? "
+        }
+    ],
+    "selectList": [
+        {
+            "Id": 165,
+            "Name": "舞",
+            "Avatar": "https://BlueArcbox.github.io/resources/Avatars/Mai.webp"
+        },
+        {
+            "Id": 193,
+            "Name": "詩乃",
+            "Avatar": "https://BlueArcbox.github.io/resources/Avatars/Shinon.webp"
+        },
+        {
+            "Id": 105,
+            "Name": "空",
+            "Avatar": "https://BlueArcbox.github.io/resources/Avatars/Sora.webp"
+        },
+        {
+            "Id": 173,
+            "Name": "星奈",
+            "Avatar": "https://BlueArcbox.github.io/resources/Avatars/Purana.webp"
+        },
+        {
+            "Id": 104,
+            "Name": "彩奈",
+            "Avatar": "https://BlueArcbox.github.io/resources/Avatars/Arona.webp"
+        }
+    ]
+}
