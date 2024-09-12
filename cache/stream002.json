@@ -1,0 +1,557 @@
+{
+    "talkId": 68,
+    "talkHistory": [
+        {
+            "Id": 0,
+            "Name": "systemInfo",
+            "Avatar": "",
+            "type": 4,
+            "flag": 2,
+            "content": "第一集 第四幕\n"
+        },
+        {
+            "Id": 11,
+            "Name": "systemInfo",
+            "Avatar": "",
+            "type": 4,
+            "flag": 0,
+            "content": "千年學院內 - 走廊"
+        },
+        {
+            "Id": 1,
+            "Name": "systemInfo",
+            "Avatar": "",
+            "type": 4,
+            "flag": 0,
+            "content": "02:00"
+        },
+        {
+            "Id": 2,
+            "Name": "詩乃",
+            "Avatar": "https://BlueArcbox.github.io/resources/Avatars/Shinon.webp",
+            "type": 0,
+            "flag": 2,
+            "content": "...这里是KPIX-TV, AM 740 KRNS, 持續為您關注千年學生光環損傷事件. "
+        },
+        {
+            "Id": 3,
+            "Name": "寧瑠",
+            "Avatar": "https://schaledb.com/images/student/collection/10008.webp",
+            "type": 0,
+            "flag": 2,
+            "content": "喂, 那個記者, 拍完了嗎? "
+        },
+        {
+            "Id": 4,
+            "Name": "寧瑠",
+            "Avatar": "https://schaledb.com/images/student/collection/10008.webp",
+            "type": 0,
+            "flag": 0,
+            "content": "拍完了就過來幫忙搬東西. "
+        },
+        {
+            "Id": 5,
+            "Name": "優香",
+            "Avatar": "https://schaledb.com/images/student/collection/13010.webp",
+            "type": 0,
+            "flag": 2,
+            "content": "寧瑠同學, 我到了, 這邊是怎麼回事? "
+        },
+        {
+            "Id": 6,
+            "Name": "詩乃",
+            "Avatar": "https://BlueArcbox.github.io/resources/Avatars/Shinon.webp",
+            "type": 0,
+            "flag": 2,
+            "content": "哇哇哇, 3 2 1 Live 觀眾朋友們, 不得了的人物出現了! "
+        },
+        {
+            "Id": 7,
+            "Name": "詩乃",
+            "Avatar": "https://BlueArcbox.github.io/resources/Avatars/Shinon.webp",
+            "type": 0,
+            "flag": 0,
+            "content": "看, 是早瀨優香同學! "
+        },
+        {
+            "Id": 8,
+            "Name": "詩乃",
+            "Avatar": "https://BlueArcbox.github.io/resources/Avatars/Shinon.webp",
+            "type": 0,
+            "flag": 0,
+            "content": "早瀨同學, 您現在是要接管現場了嗎? "
+        },
+        {
+            "Id": 9,
+            "Name": "優香",
+            "Avatar": "https://schaledb.com/images/student/collection/13010.webp",
+            "type": 0,
+            "flag": 2,
+            "content": "麻煩詩乃同學讓一讓, 不要堵在門口 (咬牙切齒)"
+        },
+        {
+            "Id": 10,
+            "Name": "優香",
+            "Avatar": "https://schaledb.com/images/student/collection/13010.webp",
+            "type": 0,
+            "flag": 0,
+            "content": "我要採集一下現場各處的數據"
+        },
+        {
+            "Id": 12,
+            "Name": "詩乃",
+            "Avatar": "https://BlueArcbox.github.io/resources/Avatars/Shinon.webp",
+            "type": 0,
+            "flag": 2,
+            "content": "噫—— (顫抖)"
+        },
+        {
+            "Id": 13,
+            "Name": "詩乃",
+            "Avatar": "https://BlueArcbox.github.io/resources/Avatars/Shinon.webp",
+            "type": 0,
+            "flag": 0,
+            "content": "好, 好的, 早瀨大人..."
+        },
+        {
+            "Id": 14,
+            "Name": "優香",
+            "Avatar": "https://schaledb.com/images/student/collection/13010.webp",
+            "type": 0,
+            "flag": 2,
+            "content": "'優香'就好了"
+        },
+        {
+            "Id": 15,
+            "Name": "優香",
+            "Avatar": "https://schaledb.com/images/student/collection/13010.webp",
+            "type": 0,
+            "flag": 0,
+            "content": "(不如就這樣打聽一下有多少信息已經被公開了吧)"
+        },
+        {
+            "Id": 16,
+            "Name": "優香",
+            "Avatar": "https://schaledb.com/images/student/collection/13010.webp",
+            "type": 0,
+            "flag": 0,
+            "content": "詩乃同學能給我和剛剛轉台進來的觀眾朋友們"
+        },
+        {
+            "Id": 17,
+            "Name": "優香",
+            "Avatar": "https://schaledb.com/images/student/collection/13010.webp",
+            "type": 0,
+            "flag": 0,
+            "content": "再講一遍事情的來龍去脈, 好嗎? (微笑)"
+        },
+        {
+            "Id": 18,
+            "Name": "詩乃",
+            "Avatar": "https://BlueArcbox.github.io/resources/Avatars/Shinon.webp",
+            "type": 0,
+            "flag": 2,
+            "content": "(Now Loading...)"
+        },
+        {
+            "Id": 20,
+            "Name": "詩乃",
+            "Avatar": "https://BlueArcbox.github.io/resources/Avatars/Shinon.webp",
+            "type": 0,
+            "flag": 0,
+            "content": "那麼, 讓我們回到克洛盧斯演播室"
+        },
+        {
+            "Id": 21,
+            "Name": "systemInfo",
+            "Avatar": "",
+            "type": 4,
+            "flag": 2,
+            "content": "第一集 第五幕"
+        },
+        {
+            "Id": 22,
+            "Name": "systemInfo",
+            "Avatar": "",
+            "type": 4,
+            "flag": 0,
+            "content": "移動新聞演播室"
+        },
+        {
+            "Id": 23,
+            "Name": "麻衣",
+            "Avatar": "https://BlueArcbox.github.io/resources/Avatars/Mai.webp",
+            "type": 0,
+            "flag": 2,
+            "content": "好的, 那我就為大家梳理一下目前我們已知的信息"
+        },
+        {
+            "Id": 24,
+            "Name": "麻衣",
+            "Avatar": "https://BlueArcbox.github.io/resources/Avatars/Mai.webp",
+            "type": 0,
+            "flag": 2,
+            "content": "首先是02:03:14, 千年貝里塔斯向三一和夏萊發出了一條求助信息"
+        },
+        {
+            "Id": 25,
+            "Name": "舞",
+            "Avatar": "https://BlueArcbox.github.io/resources/Avatars/Mai.webp",
+            "type": 0,
+            "flag": 0,
+            "content": "2分鐘後, 也就是02:05:40, 三一救護騎士團的鷲見芹奈同學到達現場"
+        },
+        {
+            "Id": 26,
+            "Name": "麻衣",
+            "Avatar": "https://BlueArcbox.github.io/resources/Avatars/Mai.webp",
+            "type": 0,
+            "flag": 1,
+            "content": "順便一提, 鷲見同學還在部室裡照顧兩位光環發生破損的\n貝里塔斯社員: 各務千尋同學和小鉤晴同學"
+        },
+        {
+            "Id": 27,
+            "Name": "舞",
+            "Avatar": "https://BlueArcbox.github.io/resources/Avatars/Mai.webp",
+            "type": 0,
+            "flag": 0,
+            "content": "其中各務千尋已經恢復意識, 光環的破損情況也是最輕的"
+        },
+        {
+            "Id": 29,
+            "Name": "麻衣",
+            "Avatar": "https://BlueArcbox.github.io/resources/Avatars/Mai.webp",
+            "type": 0,
+            "flag": 1,
+            "content": "據各務社長稱, 貝里塔斯社員們事發當時"
+        },
+        {
+            "Id": 30,
+            "Name": "舞",
+            "Avatar": "https://BlueArcbox.github.io/resources/Avatars/Mai.webp",
+            "type": 0,
+            "flag": 0,
+            "content": "在聚在一起觀看恐怖電影"
+        },
+        {
+            "Id": 31,
+            "Name": "舞",
+            "Avatar": "https://BlueArcbox.github.io/resources/Avatars/Mai.webp",
+            "type": 0,
+            "flag": 0,
+            "content": "但是各務社長拒絕提供更具體的影片信息"
+        },
+        {
+            "Id": 32,
+            "Name": "舞",
+            "Avatar": "https://BlueArcbox.github.io/resources/Avatars/Mai.webp",
+            "type": 0,
+            "flag": 0,
+            "content": "一分鐘後, 遊戲開發部和優香同學一起到達現場"
+        },
+        {
+            "Id": 54,
+            "Name": "舞",
+            "Avatar": "https://BlueArcbox.github.io/resources/Avatars/Mai.webp",
+            "type": 0,
+            "flag": 0,
+            "content": "目前夏萊還沒有做出任何回應"
+        },
+        {
+            "Id": 33,
+            "Name": "麻衣",
+            "Avatar": "https://BlueArcbox.github.io/resources/Avatars/Mai.webp",
+            "type": 0,
+            "flag": 2,
+            "content": "就是這樣了, 優香同學"
+        },
+        {
+            "Id": 34,
+            "Name": "優香",
+            "Avatar": "https://schaledb.com/images/student/collection/13010.webp",
+            "type": 0,
+            "flag": 2,
+            "content": "我知道了, 謝謝麻衣同學"
+        },
+        {
+            "Id": 35,
+            "Name": "優香",
+            "Avatar": "https://schaledb.com/images/student/collection/13010.webp",
+            "type": 0,
+            "flag": 0,
+            "content": " . . . "
+        },
+        {
+            "Id": 36,
+            "Name": "優香",
+            "Avatar": "https://schaledb.com/images/student/collection/13010.webp",
+            "type": 0,
+            "flag": 0,
+            "content": "{推門進入貝里塔斯活動室}"
+        },
+        {
+            "Id": 37,
+            "Name": "systemInfo",
+            "Avatar": "",
+            "type": 4,
+            "flag": 2,
+            "content": "第一集 第六幕"
+        },
+        {
+            "Id": 38,
+            "Name": "systemInfo",
+            "Avatar": "",
+            "type": 4,
+            "flag": 0,
+            "content": "貝里塔斯活動室內部"
+        },
+        {
+            "Id": 39,
+            "Name": "芹奈",
+            "Avatar": "https://schaledb.com/images/student/collection/26003.webp",
+            "type": 0,
+            "flag": 2,
+            "content": "啊, 優香同學, 您來了啊"
+        },
+        {
+            "Id": 40,
+            "Name": "芹奈",
+            "Avatar": "https://schaledb.com/images/student/collection/26003.webp",
+            "type": 0,
+            "flag": 0,
+            "content": "我已經讓各務同學回去休息了"
+        },
+        {
+            "Id": 41,
+            "Name": "芹奈",
+            "Avatar": "https://schaledb.com/images/student/collection/26003.webp",
+            "type": 0,
+            "flag": 0,
+            "content": "他的光環其實並沒有受損 \n"
+        },
+        {
+            "Id": 43,
+            "Name": "芹奈",
+            "Avatar": "https://schaledb.com/images/student/collection/26003.webp",
+            "type": 0,
+            "flag": 0,
+            "content": "至於身上的傷明早起來應該就會自然恢復"
+        },
+        {
+            "Id": 42,
+            "Name": "芹奈",
+            "Avatar": "https://schaledb.com/images/student/collection/26003.webp",
+            "type": 0,
+            "flag": 1,
+            "content": "請您來看這個"
+        },
+        {
+            "Id": 44,
+            "Name": "優香",
+            "Avatar": "https://schaledb.com/images/student/collection/13010.webp",
+            "type": 0,
+            "flag": 2,
+            "content": "這是... 晴? 芹奈同學, 他的情況怎麼樣了? "
+        },
+        {
+            "Id": 45,
+            "Name": "systemInfo",
+            "Avatar": "",
+            "type": 4,
+            "flag": 2,
+            "content": "晴躺在床上, 意識已經恢復"
+        },
+        {
+            "Id": 46,
+            "Name": "systemInfo",
+            "Avatar": "",
+            "type": 4,
+            "flag": 0,
+            "content": "只是他的光環上出現了一些細小的裂紋"
+        },
+        {
+            "Id": 47,
+            "Name": "晴",
+            "Avatar": "https://schaledb.com/images/student/collection/23003.webp",
+            "type": 0,
+            "flag": 2,
+            "content": "優香前輩來了啊... "
+        },
+        {
+            "Id": 48,
+            "Name": "芹奈",
+            "Avatar": "https://schaledb.com/images/student/collection/26003.webp",
+            "type": 0,
+            "flag": 2,
+            "content": "正如您所見, 晴同學的光環出現了破損"
+        },
+        {
+            "Id": 49,
+            "Name": "芹奈",
+            "Avatar": "https://schaledb.com/images/student/collection/26003.webp",
+            "type": 0,
+            "flag": 0,
+            "content": "我趕到現場的時候, 發現晴同學倒在地上"
+        },
+        {
+            "Id": 50,
+            "Name": "芹奈",
+            "Avatar": "https://schaledb.com/images/student/collection/26003.webp",
+            "type": 0,
+            "flag": 0,
+            "content": "長期攝入過量咖啡因導致晴的心血管長期處於緊張狀態"
+        },
+        {
+            "Id": 51,
+            "Name": "芹奈",
+            "Avatar": "https://schaledb.com/images/student/collection/26003.webp",
+            "type": 0,
+            "flag": 0,
+            "content": "然後因為恐怖影片內容過於刺激, 導致了心臟驟停"
+        },
+        {
+            "Id": 52,
+            "Name": "芹奈",
+            "Avatar": "https://schaledb.com/images/student/collection/26003.webp",
+            "type": 0,
+            "flag": 0,
+            "content": "更具體的, 就要到醫院才知道了"
+        },
+        {
+            "Id": 53,
+            "Name": "優香",
+            "Avatar": "https://schaledb.com/images/student/collection/13010.webp",
+            "type": 0,
+            "flag": 2,
+            "content": "我知道了, 謝謝芹奈同學. 您辛苦了. "
+        },
+        {
+            "Id": 55,
+            "Name": "優香",
+            "Avatar": "https://schaledb.com/images/student/collection/13010.webp",
+            "type": 0,
+            "flag": 0,
+            "content": "老師那邊有消息嗎? "
+        },
+        {
+            "Id": 56,
+            "Name": "芹奈",
+            "Avatar": "https://schaledb.com/images/student/collection/26003.webp",
+            "type": 0,
+            "flag": 2,
+            "content": "老師? 目前還沒有老師陷入危險的感覺..."
+        },
+        {
+            "Id": 57,
+            "Name": "優香",
+            "Avatar": "https://schaledb.com/images/student/collection/13010.webp",
+            "type": 0,
+            "flag": 2,
+            "content": "那算了, 估計是老師少見的早睡了吧. "
+        },
+        {
+            "Id": 58,
+            "Name": "優香",
+            "Avatar": "https://schaledb.com/images/student/collection/13010.webp",
+            "type": 0,
+            "flag": 0,
+            "content": "就不去打擾他了. "
+        },
+        {
+            "Id": 59,
+            "Name": "晴",
+            "Avatar": "https://schaledb.com/images/student/collection/23003.webp",
+            "type": 0,
+            "flag": 2,
+            "content": "老師..."
+        },
+        {
+            "Id": 60,
+            "Name": "晴",
+            "Avatar": "https://schaledb.com/images/student/collection/23003.webp",
+            "type": 0,
+            "flag": 0,
+            "content": "不對... 老師..."
+        },
+        {
+            "Id": 61,
+            "Name": "芹奈",
+            "Avatar": "https://schaledb.com/images/student/collection/26003.webp",
+            "type": 0,
+            "flag": 2,
+            "content": "嗯? 老師怎麼了, 晴同學? "
+        },
+        {
+            "Id": 62,
+            "Name": "晴",
+            "Avatar": "https://schaledb.com/images/student/collection/23003.webp",
+            "type": 0,
+            "flag": 2,
+            "content": "(想起了千尋對自己說的話)"
+        },
+        {
+            "Id": 63,
+            "Name": "晴",
+            "Avatar": "https://schaledb.com/images/student/collection/23003.webp",
+            "type": 0,
+            "flag": 0,
+            "content": "不, 沒什麼. 果然還是不要打擾他休息好了. "
+        },
+        {
+            "Id": 64,
+            "Name": "芹奈",
+            "Avatar": "https://schaledb.com/images/student/collection/26003.webp",
+            "type": 0,
+            "flag": 2,
+            "content": "那麼, 晴同學. 接下來我要進行一些神經系統機能檢查"
+        },
+        {
+            "Id": 65,
+            "Name": "晴",
+            "Avatar": "https://schaledb.com/images/student/collection/23003.webp",
+            "type": 0,
+            "flag": 2,
+            "content": "好的, 需要脫衣服嗎? "
+        },
+        {
+            "Id": 66,
+            "Name": "芹奈",
+            "Avatar": "https://schaledb.com/images/student/collection/26003.webp",
+            "type": 0,
+            "flag": 2,
+            "content": "啊, 不需要的. 只要躺著不要動就好了. "
+        }
+    ],
+    "selectList": [
+        {
+            "Id": 23003,
+            "Name": "晴",
+            "Avatar": "https://schaledb.com/images/student/collection/23003.webp"
+        },
+        {
+            "Id": 165,
+            "Name": "舞",
+            "Avatar": "https://BlueArcbox.github.io/resources/Avatars/Mai.webp"
+        },
+        {
+            "Id": 10008,
+            "Name": "寧瑠",
+            "Avatar": "https://schaledb.com/images/student/collection/10008.webp"
+        },
+        {
+            "Id": 193,
+            "Name": "詩乃",
+            "Avatar": "https://BlueArcbox.github.io/resources/Avatars/Shinon.webp"
+        },
+        {
+            "Id": 26003,
+            "Name": "芹奈",
+            "Avatar": "https://schaledb.com/images/student/collection/26003.webp"
+        },
+        {
+            "Id": 13010,
+            "Name": "優香",
+            "Avatar": "https://schaledb.com/images/student/collection/13010.webp"
+        }
+    ]
+}
