@@ -1,0 +1,452 @@
+{
+    "talkId": 78,
+    "talkHistory": [
+        {
+            "Id": 0,
+            "Name": "星奈",
+            "Avatar": "https://BlueArcbox.github.io/resources/Avatars/Purana.webp",
+            "type": 0,
+            "flag": 2,
+            "content": "接下來為老師閱讀第451篇備忘錄"
+        },
+        {
+            "Id": 1,
+            "Name": "星奈",
+            "Avatar": "https://BlueArcbox.github.io/resources/Avatars/Purana.webp",
+            "type": 0,
+            "flag": 0,
+            "content": "標題是 '給會長的一封信'"
+        },
+        {
+            "Id": 2,
+            "Name": "星奈",
+            "Avatar": "https://BlueArcbox.github.io/resources/Avatars/Purana.webp",
+            "type": 0,
+            "flag": 0,
+            "content": "改編自三一古書館館藏編號'929a4f3c-89d7-44df-a0dd-5b2c00ba967a'"
+        },
+        {
+            "Id": 3,
+            "Name": "sensei",
+            "Avatar": "",
+            "type": 1,
+            "flag": 2,
+            "content": "這種就不要這麼一字一頓的讀了, 星奈. "
+        },
+        {
+            "Id": 6,
+            "Name": "sensei",
+            "Avatar": "",
+            "type": 1,
+            "flag": 0,
+            "content": "算了, 直接讀正文吧. "
+        },
+        {
+            "Id": 15,
+            "Name": "星奈",
+            "Avatar": "https://BlueArcbox.github.io/resources/Avatars/Purana.webp",
+            "type": 0,
+            "flag": 2,
+            "content": "接下來是正文: "
+        },
+        {
+            "Id": 16,
+            "Name": "星奈",
+            "Avatar": "https://BlueArcbox.github.io/resources/Avatars/Purana.webp",
+            "type": 0,
+            "flag": 0,
+            "content": "上一任聯邦學生會會長從奇普托斯人間蒸發"
+        },
+        {
+            "Id": 17,
+            "Name": "星奈",
+            "Avatar": "https://BlueArcbox.github.io/resources/Avatars/Purana.webp",
+            "type": 0,
+            "flag": 0,
+            "content": "現在三一, 千年, 格黑娜三巨頭並列前茅"
+        },
+        {
+            "Id": 18,
+            "Name": "星奈",
+            "Avatar": "https://BlueArcbox.github.io/resources/Avatars/Purana.webp",
+            "type": 0,
+            "flag": 0,
+            "content": "而三一和格黑娜的歷史問題一直難以調和"
+        },
+        {
+            "Id": 19,
+            "Name": "星奈",
+            "Avatar": "https://BlueArcbox.github.io/resources/Avatars/Purana.webp",
+            "type": 0,
+            "flag": 0,
+            "content": "即使有ETO也很難說會不會有鷹派孤狼在兩地嘗試破壞短暫且脆弱的和平"
+        },
+        {
+            "Id": 20,
+            "Name": "星奈",
+            "Avatar": "https://BlueArcbox.github.io/resources/Avatars/Purana.webp",
+            "type": 0,
+            "flag": 0,
+            "content": "為師我也沒少啃會長的老本 夏萊本身就不說了 甚至還留了SRT的兩隊人作為保險"
+        },
+        {
+            "Id": 21,
+            "Name": "星奈",
+            "Avatar": "https://BlueArcbox.github.io/resources/Avatars/Purana.webp",
+            "type": 0,
+            "flag": 0,
+            "content": "不給下一屆留點什麼感覺過意不去"
+        },
+        {
+            "Id": 22,
+            "Name": "星奈",
+            "Avatar": "https://BlueArcbox.github.io/resources/Avatars/Purana.webp",
+            "type": 0,
+            "flag": 0,
+            "content": "下面是會長, 你, 要記住的幾個原則"
+        },
+        {
+            "Id": 23,
+            "Name": "星奈",
+            "Avatar": "https://BlueArcbox.github.io/resources/Avatars/Purana.webp",
+            "type": 0,
+            "flag": 0,
+            "content": "1) 你要多聽取別人的建議和意見 多和同學們交流"
+        },
+        {
+            "Id": 24,
+            "Name": "星奈",
+            "Avatar": "https://BlueArcbox.github.io/resources/Avatars/Purana.webp",
+            "type": 0,
+            "flag": 0,
+            "content": "有時候你自己會不知不覺中獲得未來解決問題的鑰匙"
+        },
+        {
+            "Id": 31,
+            "Name": "星奈",
+            "Avatar": "https://BlueArcbox.github.io/resources/Avatars/Purana.webp",
+            "type": 0,
+            "flag": 0,
+            "content": "但是也不要妄自菲薄, 引喻失義"
+        },
+        {
+            "Id": 32,
+            "Name": "星奈",
+            "Avatar": "https://BlueArcbox.github.io/resources/Avatars/Purana.webp",
+            "type": 0,
+            "flag": 0,
+            "content": "尊重每個學生的想法 對於'問題想法'永遠記住堵不如疏 "
+        },
+        {
+            "Id": 26,
+            "Name": "星奈",
+            "Avatar": "https://BlueArcbox.github.io/resources/Avatars/Purana.webp",
+            "type": 0,
+            "flag": 0,
+            "content": "2) 雖然這一點應該對你來說不是問題 但是還是容許我囉嗦幾句"
+        },
+        {
+            "Id": 27,
+            "Name": "星奈",
+            "Avatar": "https://BlueArcbox.github.io/resources/Avatars/Purana.webp",
+            "type": 0,
+            "flag": 0,
+            "content": "你要記住 永遠一碗水端平 "
+        },
+        {
+            "Id": 28,
+            "Name": "星奈",
+            "Avatar": "https://BlueArcbox.github.io/resources/Avatars/Purana.webp",
+            "type": 0,
+            "flag": 0,
+            "content": "不要搞特別對待 不要硬拆社會運轉的規則"
+        },
+        {
+            "Id": 29,
+            "Name": "星奈",
+            "Avatar": "https://BlueArcbox.github.io/resources/Avatars/Purana.webp",
+            "type": 0,
+            "flag": 0,
+            "content": "但是為了正義和學生們的夢想 有時候破壞一點規則也是必要的"
+        },
+        {
+            "Id": 30,
+            "Name": "星奈",
+            "Avatar": "https://BlueArcbox.github.io/resources/Avatars/Purana.webp",
+            "type": 0,
+            "flag": 0,
+            "content": "記住慢工出細活"
+        },
+        {
+            "Id": 33,
+            "Name": "星奈",
+            "Avatar": "https://BlueArcbox.github.io/resources/Avatars/Purana.webp",
+            "type": 0,
+            "flag": 0,
+            "content": "3) 以下是一些人事方面的推薦"
+        },
+        {
+            "Id": 34,
+            "Name": "星奈",
+            "Avatar": "https://BlueArcbox.github.io/resources/Avatars/Purana.webp",
+            "type": 0,
+            "flag": 0,
+            "content": "聯邦學生會中 '七神 琳'是上任會長留下來保證奇普托斯運轉的最終防線"
+        },
+        {
+            "Id": 35,
+            "Name": "星奈",
+            "Avatar": "https://BlueArcbox.github.io/resources/Avatars/Purana.webp",
+            "type": 0,
+            "flag": 0,
+            "content": "室長中, 扇喜 碧, 由良木 桃香, 岩櫃 步等人皆良實 志慮忠純"
+        },
+        {
+            "Id": 36,
+            "Name": "星奈",
+            "Avatar": "https://BlueArcbox.github.io/resources/Avatars/Purana.webp",
+            "type": 0,
+            "flag": 0,
+            "content": "這幾個人 在做決定前多問問 總沒錯的"
+        },
+        {
+            "Id": 37,
+            "Name": "星奈",
+            "Avatar": "https://BlueArcbox.github.io/resources/Avatars/Purana.webp",
+            "type": 0,
+            "flag": 0,
+            "content": "親賢人 遠小人 是二週目可以成功的重要原因之一"
+        },
+        {
+            "Id": 39,
+            "Name": "星奈",
+            "Avatar": "https://BlueArcbox.github.io/resources/Avatars/Purana.webp",
+            "type": 0,
+            "flag": 0,
+            "content": "親小人 遠賢人 這種行為無論在哪裡一做一個不吱聲"
+        },
+        {
+            "Id": 40,
+            "Name": "星奈",
+            "Avatar": "https://BlueArcbox.github.io/resources/Avatars/Purana.webp",
+            "type": 0,
+            "flag": 0,
+            "content": "沒事讀一讀山海經 三一 阿拜多斯的歷史書"
+        },
+        {
+            "Id": 41,
+            "Name": "星奈",
+            "Avatar": "https://BlueArcbox.github.io/resources/Avatars/Purana.webp",
+            "type": 0,
+            "flag": 0,
+            "content": "尤其是關於阿拜多斯從四巨頭殞落到只剩1人"
+        },
+        {
+            "Id": 42,
+            "Name": "星奈",
+            "Avatar": "https://BlueArcbox.github.io/resources/Avatars/Purana.webp",
+            "type": 0,
+            "flag": 0,
+            "content": "然而還是從1人到5人, 再到萬人, 再到今天的千萬人的過程"
+        },
+        {
+            "Id": 43,
+            "Name": "星奈",
+            "Avatar": "https://BlueArcbox.github.io/resources/Avatars/Purana.webp",
+            "type": 0,
+            "flag": 0,
+            "content": "我相信如果可以繼續往沙漠裡慢慢按一米見方的格子慢慢往裡面種草的話 阿拜多斯的生態總有一天... 不說恢復 至少也可以一定程度上停止目前的沙漠化問題\n"
+        },
+        {
+            "Id": 44,
+            "Name": "星奈",
+            "Avatar": "https://BlueArcbox.github.io/resources/Avatars/Purana.webp",
+            "type": 0,
+            "flag": 0,
+            "content": "說實話 對於阿拜多斯的各種事情上我個人也不能說是完全沒有偏袒"
+        },
+        {
+            "Id": 45,
+            "Name": "星奈",
+            "Avatar": "https://BlueArcbox.github.io/resources/Avatars/Purana.webp",
+            "type": 0,
+            "flag": 0,
+            "content": "但是畢竟是奇蹟開始的地方 也算是半個家鄉了 總還是想看事情變好的"
+        },
+        {
+            "Id": 46,
+            "Name": "sensei",
+            "Avatar": "",
+            "type": 1,
+            "flag": 2,
+            "content": "再說了 阿拜多斯的沙漠化如果我們再不人工干預 很快沙漠化的問題在吞沒阿拜多斯以後還會蔓延到鄰近的歌赫娜 三一 和D.U.西南部"
+        },
+        {
+            "Id": 47,
+            "Name": "星奈",
+            "Avatar": "https://BlueArcbox.github.io/resources/Avatars/Purana.webp",
+            "type": 0,
+            "flag": 2,
+            "content": "老師, 要把這句話加進去嗎? "
+        },
+        {
+            "Id": 50,
+            "Name": "sensei",
+            "Avatar": "",
+            "type": 1,
+            "flag": 2,
+            "content": "..."
+        },
+        {
+            "Id": 51,
+            "Name": "星奈",
+            "Avatar": "https://BlueArcbox.github.io/resources/Avatars/Purana.webp",
+            "type": 0,
+            "flag": 2,
+            "content": "星奈我覺得可以加進去呢"
+        },
+        {
+            "Id": 52,
+            "Name": "sensei",
+            "Avatar": "",
+            "type": 1,
+            "flag": 2,
+            "content": "欸? 那就聽星奈的啦"
+        },
+        {
+            "Id": 53,
+            "Name": "星奈",
+            "Avatar": "https://BlueArcbox.github.io/resources/Avatars/Purana.webp",
+            "type": 0,
+            "flag": 2,
+            "content": "老師, 接下來的部分您確定要再讀一遍嗎? "
+        },
+        {
+            "Id": 54,
+            "Name": "sensei",
+            "Avatar": "",
+            "type": 1,
+            "flag": 2,
+            "content": "讀吧 這部分要是寫錯了的話對於以後的歷史學家來說還是挺麻煩的"
+        },
+        {
+            "Id": 55,
+            "Name": "星奈",
+            "Avatar": "https://BlueArcbox.github.io/resources/Avatars/Purana.webp",
+            "type": 0,
+            "flag": 2,
+            "content": "好, 我明白了"
+        },
+        {
+            "Id": 56,
+            "Name": "星奈",
+            "Avatar": "https://BlueArcbox.github.io/resources/Avatars/Purana.webp",
+            "type": 0,
+            "flag": 0,
+            "content": "至於三一和歌赫娜的歷史問題 "
+        },
+        {
+            "Id": 57,
+            "Name": "星奈",
+            "Avatar": "https://BlueArcbox.github.io/resources/Avatars/Purana.webp",
+            "type": 0,
+            "flag": 0,
+            "content": "毒蛇出没之处 七步之内必有解药這句話也許是幸存者偏差 但這一思想讓我意識到一件可怕的事情"
+        },
+        {
+            "Id": 58,
+            "Name": "星奈",
+            "Avatar": "https://BlueArcbox.github.io/resources/Avatars/Purana.webp",
+            "type": 0,
+            "flag": 0,
+            "content": "因為三一和歌赫娜的歷史問題的答案 自然也存在於歷史當中"
+        },
+        {
+            "Id": 59,
+            "Name": "星奈",
+            "Avatar": "https://BlueArcbox.github.io/resources/Avatars/Purana.webp",
+            "type": 0,
+            "flag": 0,
+            "content": "答案, 你猜得沒錯, 是通婚"
+        },
+        {
+            "Id": 60,
+            "Name": "星奈",
+            "Avatar": "https://BlueArcbox.github.io/resources/Avatars/Purana.webp",
+            "type": 0,
+            "flag": 0,
+            "content": "而且是廣泛的, 從上到下的, 充分融合的通婚"
+        },
+        {
+            "Id": 61,
+            "Name": "星奈",
+            "Avatar": "https://BlueArcbox.github.io/resources/Avatars/Purana.webp",
+            "type": 0,
+            "flag": 0,
+            "content": "然後祈禱一個奇蹟"
+        },
+        {
+            "Id": 62,
+            "Name": "sensei",
+            "Avatar": "",
+            "type": 1,
+            "flag": 2,
+            "content": "這裡果然還是..."
+        },
+        {
+            "Id": 63,
+            "Name": "sensei",
+            "Avatar": "",
+            "type": 1,
+            "flag": 0,
+            "content": "算了 從'你猜的沒錯, 是通婚'這句話往後全部刪除"
+        },
+        {
+            "Id": 64,
+            "Name": "sensei",
+            "Avatar": "",
+            "type": 1,
+            "flag": 0,
+            "content": "然後寫入"
+        },
+        {
+            "Id": 65,
+            "Name": "sensei",
+            "Avatar": "",
+            "type": 1,
+            "flag": 0,
+            "content": "當然, 在現代的奇普托斯, 多搞學院交流會"
+        },
+        {
+            "Id": 68,
+            "Name": "sensei",
+            "Avatar": "",
+            "type": 1,
+            "flag": 0,
+            "content": "效果也是一樣的立竿見影"
+        },
+        {
+            "Id": 66,
+            "Name": "sensei",
+            "Avatar": "",
+            "type": 1,
+            "flag": 0,
+            "content": "目前推薦用千年作為中間人掣肘三一和格黑娜"
+        },
+        {
+            "Id": 67,
+            "Name": "sensei",
+            "Avatar": "",
+            "type": 1,
+            "flag": 0,
+            "content": "當然也不能忘記聯邦學生會的懸賞通緝和特殊任務"
+        }
+    ],
+    "selectList": [
+        {
+            "Id": 173,
+            "Name": "星奈",
+            "Avatar": "https://BlueArcbox.github.io/resources/Avatars/Purana.webp"
+        }
+    ]
+}

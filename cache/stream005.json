@@ -1,0 +1,278 @@
+{
+    "talkId": 34,
+    "talkHistory": [
+        {
+            "Id": 0,
+            "Name": "黑服",
+            "Avatar": "https://BlueArcbox.github.io/resources/Avatars/Kurofuku.webp",
+            "type": 0,
+            "flag": 2,
+            "content": "老師, 能佔用您一點時間嗎? "
+        },
+        {
+            "Id": 1,
+            "Name": "黑服",
+            "Avatar": "https://BlueArcbox.github.io/resources/Avatars/Kurofuku.webp",
+            "type": 0,
+            "flag": 0,
+            "content": "閣下委託我的, 關於學生的研究, 我已經按您的要求採集到了足夠多的數據"
+        },
+        {
+            "Id": 2,
+            "Name": "sensei",
+            "Avatar": "",
+            "type": 1,
+            "flag": 2,
+            "content": "是關於光環的防禦邏輯的那個嗎? "
+        },
+        {
+            "Id": 3,
+            "Name": "黑服",
+            "Avatar": "https://BlueArcbox.github.io/resources/Avatars/Kurofuku.webp",
+            "type": 0,
+            "flag": 2,
+            "content": "正是, 老師您果然還是一如既往的好記性. "
+        },
+        {
+            "Id": 4,
+            "Name": "黑服",
+            "Avatar": "https://BlueArcbox.github.io/resources/Avatars/Kurofuku.webp",
+            "type": 0,
+            "flag": 0,
+            "content": "先說結論"
+        },
+        {
+            "Id": 5,
+            "Name": "黑服",
+            "Avatar": "https://BlueArcbox.github.io/resources/Avatars/Kurofuku.webp",
+            "type": 0,
+            "flag": 0,
+            "content": "光環的減傷具有脹流性的特徵, 即一個學生瞬間受到的傷害越大, 光環帶來的減傷效果就越好"
+        },
+        {
+            "Id": 6,
+            "Name": "sensei",
+            "Avatar": "",
+            "type": 1,
+            "flag": 2,
+            "content": "這個我們前面的研究中已經證實了"
+        },
+        {
+            "Id": 7,
+            "Name": "sensei",
+            "Avatar": "",
+            "type": 1,
+            "flag": 0,
+            "content": "講點不知道的吧"
+        },
+        {
+            "Id": 8,
+            "Name": "黑服",
+            "Avatar": "https://BlueArcbox.github.io/resources/Avatars/Kurofuku.webp",
+            "type": 0,
+            "flag": 2,
+            "content": "總之, 在夏萊的慷慨支持下, 我們成功地檢測出了光環防禦機制觸發的具體邊界"
+        },
+        {
+            "Id": 9,
+            "Name": "黑服",
+            "Avatar": "https://BlueArcbox.github.io/resources/Avatars/Kurofuku.webp",
+            "type": 0,
+            "flag": 0,
+            "content": "首先, 光環只會防禦來自外部的侵害"
+        },
+        {
+            "Id": 10,
+            "Name": "黑服",
+            "Avatar": "https://BlueArcbox.github.io/resources/Avatars/Kurofuku.webp",
+            "type": 0,
+            "flag": 0,
+            "content": "當使用利器嘗試攻擊時, 我們發現光環不僅僅是會在槍擊傷害中介入. 事實上, 只要只要力量足夠, 使用刀具一樣可以觸發光環的防禦機制. 然而, 使用鈍器時卻沒有生效. "
+        },
+        {
+            "Id": 11,
+            "Name": "黑服",
+            "Avatar": "https://BlueArcbox.github.io/resources/Avatars/Kurofuku.webp",
+            "type": 0,
+            "flag": 1,
+            "content": "目前的觀察是, 光環是否介入主要取決於, 但不限於瞬時剪力. "
+        },
+        {
+            "Id": 12,
+            "Name": "sensei",
+            "Avatar": "",
+            "type": 1,
+            "flag": 2,
+            "content": "終於可以確認了是嗎? 其他方面的實驗呢? "
+        },
+        {
+            "Id": 13,
+            "Name": "黑服",
+            "Avatar": "https://BlueArcbox.github.io/resources/Avatars/Kurofuku.webp",
+            "type": 0,
+            "flag": 2,
+            "content": "其他方面目前為止的研究報告已經送到您的電子郵箱中"
+        },
+        {
+            "Id": 14,
+            "Name": "sensei",
+            "Avatar": "",
+            "type": 1,
+            "flag": 2,
+            "content": "我知道了, 我先看完你的報告"
+        },
+        {
+            "Id": 16,
+            "Name": "羈絆劇情",
+            "Avatar": "",
+            "type": 2,
+            "flag": 2,
+            "content": "以下部分請各位自行想像賽博皮影戲"
+        },
+        {
+            "Id": 17,
+            "Name": "systemInfo",
+            "Avatar": "",
+            "type": 4,
+            "flag": 2,
+            "content": "你打開了希迪姆的箱子\n點進右上角的郵箱\n接收了黑服的郵件"
+        },
+        {
+            "Id": 18,
+            "Name": "彩奈",
+            "Avatar": "https://BlueArcbox.github.io/resources/Avatars/Arona.webp",
+            "type": 0,
+            "flag": 2,
+            "content": "zzzzzzzzz"
+        },
+        {
+            "Id": 19,
+            "Name": "星奈",
+            "Avatar": "https://BlueArcbox.github.io/resources/Avatars/Purana.webp",
+            "type": 0,
+            "flag": 2,
+            "content": "老師, 您來了啊"
+        },
+        {
+            "Id": 20,
+            "Name": "星奈",
+            "Avatar": "https://BlueArcbox.github.io/resources/Avatars/Purana.webp",
+            "type": 0,
+            "flag": 0,
+            "content": "需要我把這封郵件的內容總結給您嗎? "
+        },
+        {
+            "Id": 21,
+            "Name": "sensei",
+            "Avatar": "",
+            "type": 1,
+            "flag": 2,
+            "content": "那就麻煩星奈醬了"
+        },
+        {
+            "Id": 22,
+            "Name": "星奈",
+            "Avatar": "https://BlueArcbox.github.io/resources/Avatars/Purana.webp",
+            "type": 0,
+            "flag": 2,
+            "content": "好的老師, 這是一份數據總結: 這是一份實驗報告表格, 主要內容樣本編號, ttk, 突破方式和數據等"
+        },
+        {
+            "Id": 24,
+            "Name": "星奈",
+            "Avatar": "https://BlueArcbox.github.io/resources/Avatars/Purana.webp",
+            "type": 0,
+            "flag": 0,
+            "content": "在損耗統計表中, 截至本月15日, 實驗損耗總計169份樣本. 未來樣本請求中, 按各類實驗需求總計還需要307份樣本"
+        },
+        {
+            "Id": 25,
+            "Name": "彩奈",
+            "Avatar": "https://BlueArcbox.github.io/resources/Avatars/Arona.webp",
+            "type": 0,
+            "flag": 2,
+            "content": "夠了. "
+        },
+        {
+            "Id": 26,
+            "Name": "彩奈",
+            "Avatar": "https://BlueArcbox.github.io/resources/Avatars/Arona.webp",
+            "type": 0,
+            "flag": 0,
+            "content": "老師, 這一切都值得嗎? "
+        },
+        {
+            "Id": 27,
+            "Name": "彩奈",
+            "Avatar": "https://BlueArcbox.github.io/resources/Avatars/Arona.webp",
+            "type": 0,
+            "flag": 0,
+            "content": "那可是169名學生"
+        },
+        {
+            "Id": 28,
+            "Name": "彩奈",
+            "Avatar": "https://BlueArcbox.github.io/resources/Avatars/Arona.webp",
+            "type": 0,
+            "flag": 0,
+            "content": "那是你, 老師, 要保護的, 學生! "
+        },
+        {
+            "Id": 29,
+            "Name": "systemInfo",
+            "Avatar": "",
+            "type": 4,
+            "flag": 2,
+            "content": "老師 長嘆了一口氣"
+        },
+        {
+            "Id": 30,
+            "Name": "sensei",
+            "Avatar": "",
+            "type": 1,
+            "flag": 2,
+            "content": "彩奈, 我們還有其他辦法嗎? "
+        },
+        {
+            "Id": 31,
+            "Name": "彩奈",
+            "Avatar": "https://BlueArcbox.github.io/resources/Avatars/Arona.webp",
+            "type": 0,
+            "flag": 2,
+            "content": "..."
+        },
+        {
+            "Id": 32,
+            "Name": "星奈",
+            "Avatar": "https://BlueArcbox.github.io/resources/Avatars/Purana.webp",
+            "type": 0,
+            "flag": 2,
+            "content": "..."
+        },
+        {
+            "Id": 33,
+            "Name": "sensei",
+            "Avatar": "",
+            "type": 1,
+            "flag": 2,
+            "content": "我想也是"
+        }
+    ],
+    "selectList": [
+        {
+            "Id": 104,
+            "Name": "彩奈",
+            "Avatar": "https://BlueArcbox.github.io/resources/Avatars/Arona.webp"
+        },
+        {
+            "Id": 173,
+            "Name": "星奈",
+            "Avatar": "https://BlueArcbox.github.io/resources/Avatars/Purana.webp"
+        },
+        {
+            "Id": 125,
+            "Name": "黑服",
+            "Avatar": "https://BlueArcbox.github.io/resources/Avatars/Kurofuku.webp"
+        }
+    ]
+}
