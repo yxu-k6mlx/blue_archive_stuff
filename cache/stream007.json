@@ -1,0 +1,1616 @@
+{
+    "talkId": 267,
+    "talkHistory": [
+        {
+            "Id": 0,
+            "Name": "systemInfo",
+            "Avatar": "",
+            "type": 4,
+            "flag": 2,
+            "content": "希迪姆的箱子內部 (晚間)"
+        },
+        {
+            "Id": 3,
+            "Name": "星奈",
+            "Avatar": "https://BlueArcbox.github.io/resources/Avatars/Purana.webp",
+            "type": 0,
+            "flag": 2,
+            "content": "https://wsrv.nl/?url=https%3A%2F%2Fcdnimg.gamekee.com%2Fwiki2.0%2Fimages%2Fw_550%2Fh_550%2F829%2F334972%2F2023%2F10%2F27%2F626068.png&output=webp"
+        },
+        {
+            "Id": 4,
+            "Name": "星奈",
+            "Avatar": "https://BlueArcbox.github.io/resources/Avatars/Purana.webp",
+            "type": 0,
+            "flag": 0,
+            "content": "老師, 您知道'平行世界'理論嗎? "
+        },
+        {
+            "Id": 6,
+            "Name": "星奈",
+            "Avatar": "https://BlueArcbox.github.io/resources/Avatars/Purana.webp",
+            "type": 0,
+            "flag": 0,
+            "content": "那是, 與我們所在的世界無限相似"
+        },
+        {
+            "Id": 8,
+            "Name": "星奈",
+            "Avatar": "https://BlueArcbox.github.io/resources/Avatars/Purana.webp",
+            "type": 0,
+            "flag": 0,
+            "content": "但是世界, 或是老師您, 做出了不同的選擇"
+        },
+        {
+            "Id": 9,
+            "Name": "星奈",
+            "Avatar": "https://BlueArcbox.github.io/resources/Avatars/Purana.webp",
+            "type": 0,
+            "flag": 0,
+            "content": "又或是發生了什麼概率學的奇蹟"
+        },
+        {
+            "Id": 10,
+            "Name": "星奈",
+            "Avatar": "https://BlueArcbox.github.io/resources/Avatars/Purana.webp",
+            "type": 0,
+            "flag": 0,
+            "content": "哪怕是最微小的變量"
+        },
+        {
+            "Id": 11,
+            "Name": "星奈",
+            "Avatar": "https://BlueArcbox.github.io/resources/Avatars/Purana.webp",
+            "type": 0,
+            "flag": 0,
+            "content": "都會導向一個完全不同的世界"
+        },
+        {
+            "Id": 12,
+            "Name": "星奈",
+            "Avatar": "https://BlueArcbox.github.io/resources/Avatars/Purana.webp",
+            "type": 0,
+            "flag": 1,
+            "content": "比如說, 我也是'平行世界'的居民\n"
+        },
+        {
+            "Id": 13,
+            "Name": "星奈",
+            "Avatar": "https://BlueArcbox.github.io/resources/Avatars/Purana.webp",
+            "type": 0,
+            "flag": 0,
+            "content": "我, 和他一樣, 都是'A.R.O.N.A.'"
+        },
+        {
+            "Id": 14,
+            "Name": "彩奈",
+            "Avatar": "https://BlueArcbox.github.io/resources/Avatars/Arona.webp",
+            "type": 0,
+            "flag": 2,
+            "content": "https://wsrv.nl/?url=https%3A%2F%2Fcdnimg.gamekee.com%2Fwiki2.0%2Fimages%2Fw_252%2Fh_204%2F829%2F43637%2F2022%2F6%2F3%2F566384.png&output=webp"
+        },
+        {
+            "Id": 16,
+            "Name": "彩奈",
+            "Avatar": "https://BlueArcbox.github.io/resources/Avatars/Arona.webp",
+            "type": 0,
+            "flag": 0,
+            "content": "zzzzzZZZZZ"
+        },
+        {
+            "Id": 17,
+            "Name": "星奈",
+            "Avatar": "https://BlueArcbox.github.io/resources/Avatars/Purana.webp",
+            "type": 0,
+            "flag": 2,
+            "content": "我想讓您記住的是"
+        },
+        {
+            "Id": 18,
+            "Name": "星奈",
+            "Avatar": "https://BlueArcbox.github.io/resources/Avatars/Purana.webp",
+            "type": 0,
+            "flag": 0,
+            "content": "'平行世界'並不僅限存在"
+        },
+        {
+            "Id": 21,
+            "Name": "星奈",
+            "Avatar": "https://BlueArcbox.github.io/resources/Avatars/Purana.webp",
+            "type": 0,
+            "flag": 0,
+            "content": "我代表的"
+        },
+        {
+            "Id": 22,
+            "Name": "星奈",
+            "Avatar": "https://BlueArcbox.github.io/resources/Avatars/Purana.webp",
+            "type": 0,
+            "flag": 0,
+            "content": "和您所代表的"
+        },
+        {
+            "Id": 23,
+            "Name": "星奈",
+            "Avatar": "https://BlueArcbox.github.io/resources/Avatars/Purana.webp",
+            "type": 0,
+            "flag": 0,
+            "content": "兩個實例而已"
+        },
+        {
+            "Id": 19,
+            "Name": "星奈",
+            "Avatar": "https://BlueArcbox.github.io/resources/Avatars/Purana.webp",
+            "type": 0,
+            "flag": 1,
+            "content": "哪怕極其相似"
+        },
+        {
+            "Id": 20,
+            "Name": "星奈",
+            "Avatar": "https://BlueArcbox.github.io/resources/Avatars/Purana.webp",
+            "type": 0,
+            "flag": 0,
+            "content": "卻又有著些許不同的世界"
+        },
+        {
+            "Id": 24,
+            "Name": "星奈",
+            "Avatar": "https://BlueArcbox.github.io/resources/Avatars/Purana.webp",
+            "type": 0,
+            "flag": 0,
+            "content": "這樣的世界存在有無數個"
+        },
+        {
+            "Id": 26,
+            "Name": "星奈",
+            "Avatar": "https://BlueArcbox.github.io/resources/Avatars/Purana.webp",
+            "type": 0,
+            "flag": 1,
+            "content": "https://wsrv.nl/?url=https%3A%2F%2Fcdnimg.gamekee.com%2Fwiki2.0%2Fimages%2Fw_550%2Fh_550%2F829%2F334972%2F2023%2F10%2F27%2F809006.png&output=webp"
+        },
+        {
+            "Id": 27,
+            "Name": "星奈",
+            "Avatar": "https://BlueArcbox.github.io/resources/Avatars/Purana.webp",
+            "type": 0,
+            "flag": 0,
+            "content": "而接下來我想要與老師分享的"
+        },
+        {
+            "Id": 28,
+            "Name": "星奈",
+            "Avatar": "https://BlueArcbox.github.io/resources/Avatars/Purana.webp",
+            "type": 0,
+            "flag": 0,
+            "content": "就是那樣一個"
+        },
+        {
+            "Id": 29,
+            "Name": "星奈",
+            "Avatar": "https://BlueArcbox.github.io/resources/Avatars/Purana.webp",
+            "type": 0,
+            "flag": 0,
+            "content": "和我們有著些許不同的世界"
+        },
+        {
+            "Id": 30,
+            "Name": "星奈",
+            "Avatar": "https://BlueArcbox.github.io/resources/Avatars/Purana.webp",
+            "type": 0,
+            "flag": 1,
+            "content": "https://wsrv.nl/?url=https%3A%2F%2Fcdnimg.gamekee.com%2Fwiki2.0%2Fimages%2Fw_550%2Fh_550%2F829%2F334972%2F2023%2F10%2F27%2F69144.png&output=webp"
+        },
+        {
+            "Id": 31,
+            "Name": "星奈",
+            "Avatar": "https://BlueArcbox.github.io/resources/Avatars/Purana.webp",
+            "type": 0,
+            "flag": 0,
+            "content": "這是"
+        },
+        {
+            "Id": 32,
+            "Name": "星奈",
+            "Avatar": "https://BlueArcbox.github.io/resources/Avatars/Purana.webp",
+            "type": 0,
+            "flag": 0,
+            "content": "某一個奇普托斯的故事"
+        },
+        {
+            "Id": 33,
+            "Name": "systemInfo",
+            "Avatar": "",
+            "type": 4,
+            "flag": 2,
+            "content": "(以上內容原作: Nekko)"
+        },
+        {
+            "Id": 34,
+            "Name": "奇普托斯實例'~/.pyenv/5172153.6406/217654/'",
+            "Avatar": "",
+            "type": 2,
+            "flag": 2,
+            "content": "請自行想像以下劇情"
+        },
+        {
+            "Id": 35,
+            "Name": "模擬參數",
+            "Avatar": "",
+            "type": 3,
+            "flag": 2,
+            "content": "背景版: 夏萊辦公室\nBGM: Pixel Time (開發部小曲)"
+        },
+        {
+            "Id": 36,
+            "Name": "綠",
+            "Avatar": "https://schaledb.com/images/student/collection/10016.webp",
+            "type": 0,
+            "flag": 2,
+            "content": "https://img.vxs.nl/?url=https%3A%2F%2Fstatic.kivo.fun%2Fimages%2Fstudents%2F%E6%89%8D%E7%BE%BD%20%E7%BB%BF%2Fgallery%2F%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86%2Fmidori_spr-03_0_waifu2x_2x_2n_png.jpg&output=webp"
+        },
+        {
+            "Id": 37,
+            "Name": "綠",
+            "Avatar": "https://schaledb.com/images/student/collection/10016.webp",
+            "type": 0,
+            "flag": 0,
+            "content": "姐姐~ 還不投降嗎? "
+        },
+        {
+            "Id": 38,
+            "Name": "桃井",
+            "Avatar": "https://schaledb.com/images/student/collection/13011.webp",
+            "type": 0,
+            "flag": 2,
+            "content": "https://wsrv.nl/?url=https%3A%2F%2Fcdnimg-v2.gamekee.com%2Fwiki2.0%2Fimages%2Fw_500%2Fh_500%2F829%2F43637%2F2023%2F2%2F2%2F381462.png&output=webp"
+        },
+        {
+            "Id": 39,
+            "Name": "桃井",
+            "Avatar": "https://schaledb.com/images/student/collection/13011.webp",
+            "type": 0,
+            "flag": 0,
+            "content": "這時候投降了的話\n"
+        },
+        {
+            "Id": 40,
+            "Name": "桃井",
+            "Avatar": "https://schaledb.com/images/student/collection/13011.webp",
+            "type": 0,
+            "flag": 0,
+            "content": "那不就是半途而廢了嘛"
+        },
+        {
+            "Id": 41,
+            "Name": "桃井",
+            "Avatar": "https://schaledb.com/images/student/collection/13011.webp",
+            "type": 0,
+            "flag": 0,
+            "content": "而我 才羽桃井 永不放棄! "
+        },
+        {
+            "Id": 44,
+            "Name": "systemInfo",
+            "Avatar": "",
+            "type": 4,
+            "flag": 2,
+            "content": "玩家cyber_green勝出! "
+        },
+        {
+            "Id": 46,
+            "Name": "桃井",
+            "Avatar": "https://schaledb.com/images/student/collection/13011.webp",
+            "type": 0,
+            "flag": 2,
+            "content": "https://BlueArcbox.github.io/resources/Stickers/13.webp"
+        },
+        {
+            "Id": 53,
+            "Name": "sensei",
+            "Avatar": "",
+            "type": 1,
+            "flag": 2,
+            "content": "好啦, 小桃別哭啦"
+        },
+        {
+            "Id": 54,
+            "Name": "sensei",
+            "Avatar": "",
+            "type": 1,
+            "flag": 0,
+            "content": "正好我也有點餓了, 要一起嗎? "
+        },
+        {
+            "Id": 55,
+            "Name": "桃井",
+            "Avatar": "https://schaledb.com/images/student/collection/13011.webp",
+            "type": 0,
+            "flag": 2,
+            "content": "好耶! "
+        },
+        {
+            "Id": 56,
+            "Name": "桃井",
+            "Avatar": "https://schaledb.com/images/student/collection/13011.webp",
+            "type": 0,
+            "flag": 0,
+            "content": " 老師, 我想再去吃一次阿拜多斯的那個什麼拉麵! "
+        },
+        {
+            "Id": 57,
+            "Name": "愛麗絲",
+            "Avatar": "https://schaledb.com/images/student/collection/10015.webp",
+            "type": 0,
+            "flag": 2,
+            "content": "愛麗絲記得哦! 桃井在說的應該是柴關拉麵吧? "
+        },
+        {
+            "Id": 58,
+            "Name": "綠",
+            "Avatar": "https://schaledb.com/images/student/collection/10016.webp",
+            "type": 0,
+            "flag": 2,
+            "content": "https://wsrv.nl/?url=https%3A%2F%2Fcdnimg-v2.gamekee.com%2Fwiki2.0%2Fimages%2Fw_500%2Fh_500%2F829%2F43637%2F2023%2F2%2F2%2F210160.png&output=webp"
+        },
+        {
+            "Id": 59,
+            "Name": "綠",
+            "Avatar": "https://schaledb.com/images/student/collection/10016.webp",
+            "type": 0,
+            "flag": 0,
+            "content": "老師, 我也可以一起去嗎? "
+        },
+        {
+            "Id": 60,
+            "Name": "sensei",
+            "Avatar": "",
+            "type": 1,
+            "flag": 2,
+            "content": "那就一起去吧? "
+        },
+        {
+            "Id": 67,
+            "Name": "sensei",
+            "Avatar": "",
+            "type": 1,
+            "flag": 0,
+            "content": "實際上今天..."
+        },
+        {
+            "Id": 69,
+            "Name": "sensei",
+            "Avatar": "",
+            "type": 1,
+            "flag": 0,
+            "content": "夏萊附近的電車因為施工所以今天停運了"
+        },
+        {
+            "Id": 68,
+            "Name": "sensei",
+            "Avatar": "",
+            "type": 1,
+            "flag": 0,
+            "content": "所以其實我是自己開車來的"
+        },
+        {
+            "Id": 61,
+            "Name": "sensei",
+            "Avatar": "",
+            "type": 1,
+            "flag": 0,
+            "content": "小綠小桃愛麗絲, 還有柚子一起吧? "
+        },
+        {
+            "Id": 62,
+            "Name": "柚子",
+            "Avatar": "https://schaledb.com/images/student/collection/10018.webp",
+            "type": 0,
+            "flag": 2,
+            "content": "https://wsrv.nl/?url=https%3A%2F%2Fcdnimg-v2.gamekee.com%2Fwiki2.0%2Fimages%2Fw_250%2Fh_250%2F829%2F191981%2F2024%2F7%2F5%2F951387.png&output=webp"
+        },
+        {
+            "Id": 63,
+            "Name": "綠",
+            "Avatar": "https://schaledb.com/images/student/collection/10016.webp",
+            "type": 0,
+            "flag": 2,
+            "content": "https://wsrv.nl/?url=https%3A%2F%2Fcdnimg-v2.gamekee.com%2Fwiki2.0%2Fimages%2Fw_500%2Fh_500%2F829%2F43637%2F2023%2F2%2F2%2F440818.png&output=webp"
+        },
+        {
+            "Id": 64,
+            "Name": "綠",
+            "Avatar": "https://schaledb.com/images/student/collection/10016.webp",
+            "type": 0,
+            "flag": 0,
+            "content": "好耶! "
+        },
+        {
+            "Id": 65,
+            "Name": "愛麗絲",
+            "Avatar": "https://schaledb.com/images/student/collection/10015.webp",
+            "type": 0,
+            "flag": 2,
+            "content": "愛麗絲加入了隊伍! "
+        },
+        {
+            "Id": 71,
+            "Name": "桃井",
+            "Avatar": "https://schaledb.com/images/student/collection/13011.webp",
+            "type": 0,
+            "flag": 2,
+            "content": "不過老師, "
+        },
+        {
+            "Id": 72,
+            "Name": "桃井",
+            "Avatar": "https://schaledb.com/images/student/collection/13011.webp",
+            "type": 0,
+            "flag": 0,
+            "content": "您開的車子, 我們一共五個人"
+        },
+        {
+            "Id": 73,
+            "Name": "桃井",
+            "Avatar": "https://schaledb.com/images/student/collection/13011.webp",
+            "type": 0,
+            "flag": 0,
+            "content": "倒不是我很介意, 只是想問問會不會很擁擠啊? "
+        },
+        {
+            "Id": 74,
+            "Name": "sensei",
+            "Avatar": "",
+            "type": 1,
+            "flag": 2,
+            "content": "Good... Great question小桃! "
+        },
+        {
+            "Id": 75,
+            "Name": "sensei",
+            "Avatar": "",
+            "type": 1,
+            "flag": 0,
+            "content": "今天我沒開自己的那台車哦"
+        },
+        {
+            "Id": 76,
+            "Name": "愛麗絲",
+            "Avatar": "https://schaledb.com/images/student/collection/10015.webp",
+            "type": 0,
+            "flag": 2,
+            "content": "愛麗絲明白了! 老師今天出門是因為桃井同學兩週前的約定"
+        },
+        {
+            "Id": 77,
+            "Name": "愛麗絲",
+            "Avatar": "https://schaledb.com/images/student/collection/10015.webp",
+            "type": 0,
+            "flag": 0,
+            "content": "所以可以認為是夏萊的公務支出, 所以老師不必用自己的汽車, 這樣可以節省自己的財務開支! "
+        },
+        {
+            "Id": 78,
+            "Name": "柚子",
+            "Avatar": "https://schaledb.com/images/student/collection/10018.webp",
+            "type": 0,
+            "flag": 2,
+            "content": "愛麗絲, 那個還是不要說出來比較好哦"
+        },
+        {
+            "Id": 79,
+            "Name": "綠",
+            "Avatar": "https://schaledb.com/images/student/collection/10016.webp",
+            "type": 0,
+            "flag": 2,
+            "content": "要是被計算器前輩聽到了, 難說老師自己會不會先被計算器前輩數落的唷~"
+        },
+        {
+            "Id": 80,
+            "Name": "桃井",
+            "Avatar": "https://schaledb.com/images/student/collection/13011.webp",
+            "type": 0,
+            "flag": 2,
+            "content": "欸? 優香前輩的名字什麼時候變得和冰心食人魔一樣連提都不能提到了嗎? "
+        },
+        {
+            "Id": 81,
+            "Name": "優香",
+            "Avatar": "https://schaledb.com/images/student/collection/13010.webp",
+            "type": 0,
+            "flag": 2,
+            "content": "在走廊裡就聽到你們在叫我了"
+        },
+        {
+            "Id": 82,
+            "Name": "愛麗絲",
+            "Avatar": "https://schaledb.com/images/student/collection/10015.webp",
+            "type": 0,
+            "flag": 2,
+            "content": "哇—— 是優香大... 前輩... "
+        },
+        {
+            "Id": 85,
+            "Name": "sensei",
+            "Avatar": "",
+            "type": 1,
+            "flag": 2,
+            "content": "欸? 優香? 正好, 要不要一起去吃拉麵呀? "
+        },
+        {
+            "Id": 87,
+            "Name": "優香",
+            "Avatar": "https://schaledb.com/images/student/collection/13010.webp",
+            "type": 0,
+            "flag": 2,
+            "content": "https://img.vxs.nl/?url=https%3A%2F%2Fstatic.kivo.fun%2Fimages%2Fstudents%2F%E6%97%A9%E6%BF%91%20%E4%BC%98%E9%A6%99%2Fgallery%2F%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86%2FQQ%E6%88%AA%E5%9B%BE20211127194631.png&output=webp"
+        },
+        {
+            "Id": 88,
+            "Name": "優香",
+            "Avatar": "https://schaledb.com/images/student/collection/13010.webp",
+            "type": 0,
+            "flag": 0,
+            "content": "欸? 老師怎麼也在? "
+        },
+        {
+            "Id": 89,
+            "Name": "優香",
+            "Avatar": "https://schaledb.com/images/student/collection/13010.webp",
+            "type": 0,
+            "flag": 0,
+            "content": "等下... 老師說拉麵, 不會是阿拜多斯那家柴關拉麵吧? "
+        },
+        {
+            "Id": 90,
+            "Name": "sensei",
+            "Avatar": "",
+            "type": 1,
+            "flag": 2,
+            "content": "就是柴關拉麵"
+        },
+        {
+            "Id": 91,
+            "Name": "sensei",
+            "Avatar": "",
+            "type": 1,
+            "flag": 0,
+            "content": "我和他們正在商量要不要一起去一趟阿拜多斯順便吃個飯"
+        },
+        {
+            "Id": 92,
+            "Name": "sensei",
+            "Avatar": "",
+            "type": 1,
+            "flag": 0,
+            "content": "我今天開的是夏萊的那個白色麵包車"
+        },
+        {
+            "Id": 93,
+            "Name": "sensei",
+            "Avatar": "",
+            "type": 1,
+            "flag": 0,
+            "content": "那輛車可是荷載32座的"
+        },
+        {
+            "Id": 95,
+            "Name": "sensei",
+            "Avatar": "",
+            "type": 1,
+            "flag": 0,
+            "content": "就算再多幾個也都坐得下"
+        },
+        {
+            "Id": 96,
+            "Name": "優香",
+            "Avatar": "https://schaledb.com/images/student/collection/13010.webp",
+            "type": 0,
+            "flag": 2,
+            "content": "欸? 可是老師真的有一次運輸那麼多人的駕駛執照嗎? "
+        },
+        {
+            "Id": 98,
+            "Name": "sensei",
+            "Avatar": "",
+            "type": 1,
+            "flag": 2,
+            "content": "區區地區道路交通法, 我可是法律以外的夏萊! "
+        },
+        {
+            "Id": 99,
+            "Name": "優香",
+            "Avatar": "https://schaledb.com/images/student/collection/13010.webp",
+            "type": 0,
+            "flag": 2,
+            "content": "https://img.vxs.nl/?url=https%3A%2F%2Fstatic.kivo.fun%2Fimages%2Fstudents%2F%E6%97%A9%E6%BF%91%20%E4%BC%98%E9%A6%99%2Fgallery%2F%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86%2FQQ%E6%88%AA%E5%9B%BE20211127194705.png&output=webp"
+        },
+        {
+            "Id": 100,
+            "Name": "sensei",
+            "Avatar": "",
+            "type": 1,
+            "flag": 2,
+            "content": "再說了, 你們不是都有光環保護的嗎? "
+        },
+        {
+            "Id": 101,
+            "Name": "sensei",
+            "Avatar": "",
+            "type": 1,
+            "flag": 0,
+            "content": "哎呀一起來啦優香~ "
+        },
+        {
+            "Id": 107,
+            "Name": "優香",
+            "Avatar": "https://schaledb.com/images/student/collection/13010.webp",
+            "type": 0,
+            "flag": 2,
+            "content": "真是的, 老師. 算了, 果然還是太多變量了. 我還是跟著您吧.  "
+        },
+        {
+            "Id": 108,
+            "Name": "sensei",
+            "Avatar": "",
+            "type": 1,
+            "flag": 2,
+            "content": "好耶! "
+        },
+        {
+            "Id": 109,
+            "Name": "模擬參數",
+            "Avatar": "",
+            "type": 3,
+            "flag": 2,
+            "content": "背景版: 柴關拉麵外\nBGM: Mischievous Step (走格子)"
+        },
+        {
+            "Id": 110,
+            "Name": "亞瑠",
+            "Avatar": "https://schaledb.com/images/student/collection/10000.webp",
+            "type": 0,
+            "flag": 2,
+            "content": "https://wsrv.nl/?url=https%3A%2F%2Fcdnimg-v2.gamekee.com%2Fwiki2.0%2Fimages%2Fw_267%2Fh_267%2F829%2F43637%2F2022%2F7%2F6%2F182642.png&output=webp"
+        },
+        {
+            "Id": 111,
+            "Name": "亞瑠",
+            "Avatar": "https://schaledb.com/images/student/collection/10000.webp",
+            "type": 0,
+            "flag": 0,
+            "content": "老師~ 您也在啊! "
+        },
+        {
+            "Id": 112,
+            "Name": "sensei",
+            "Avatar": "",
+            "type": 1,
+            "flag": 2,
+            "content": "欸? 是亞瑠? "
+        },
+        {
+            "Id": 113,
+            "Name": "無月",
+            "Avatar": "https://schaledb.com/images/student/collection/13006.webp",
+            "type": 0,
+            "flag": 2,
+            "content": "Hallo~ 老師下午好呀~"
+        },
+        {
+            "Id": 114,
+            "Name": "佳世子",
+            "Avatar": "https://schaledb.com/images/student/collection/13005.webp",
+            "type": 0,
+            "flag": 2,
+            "content": "如你所見, 老師, 我們剛完成了一單生意"
+        },
+        {
+            "Id": 115,
+            "Name": "佳世子",
+            "Avatar": "https://schaledb.com/images/student/collection/13005.webp",
+            "type": 0,
+            "flag": 0,
+            "content": "亞瑠賺了點錢, 然後就拉著我們來這裡了"
+        },
+        {
+            "Id": 116,
+            "Name": "sensei",
+            "Avatar": "",
+            "type": 1,
+            "flag": 2,
+            "content": "欸? "
+        },
+        {
+            "Id": 117,
+            "Name": "sensei",
+            "Avatar": "",
+            "type": 1,
+            "flag": 0,
+            "content": "恭喜呀, 亞瑠醬~"
+        },
+        {
+            "Id": 118,
+            "Name": "亞瑠",
+            "Avatar": "https://schaledb.com/images/student/collection/10000.webp",
+            "type": 0,
+            "flag": 2,
+            "content": "https://wsrv.nl/?url=https%3A%2F%2Fcdnimg-v2.gamekee.com%2Fwiki2.0%2Fimages%2Fw_267%2Fh_267%2F829%2F43637%2F2022%2F7%2F6%2F929211.png&output=webp"
+        },
+        {
+            "Id": 119,
+            "Name": "亞瑠",
+            "Avatar": "https://schaledb.com/images/student/collection/10000.webp",
+            "type": 0,
+            "flag": 0,
+            "content": "作為便利屋68的社長, 有福同享當然不能忘! "
+        },
+        {
+            "Id": 121,
+            "Name": "佳世子",
+            "Avatar": "https://schaledb.com/images/student/collection/13005.webp",
+            "type": 0,
+            "flag": 2,
+            "content": "https://img.vxs.nl/?url=https%3A%2F%2Fstatic.kivo.fun%2Fimages%2Fstudents%2F%E9%AC%BC%E6%96%B9%20%E4%BD%B3%E4%BB%A3%E5%AD%90%2Fgallery%2F%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86%2Fkayoko_spr-07_0_waifu2x_2x_2n_png.jpg&output=webp"
+        },
+        {
+            "Id": 123,
+            "Name": "無月",
+            "Avatar": "https://schaledb.com/images/student/collection/13006.webp",
+            "type": 0,
+            "flag": 2,
+            "content": "https://img.vxs.nl/?url=https%3A%2F%2Fstatic.kivo.fun%2Fimages%2Fstudents%2F%E6%B5%85%E9%BB%84%20%E7%9D%A6%E6%9C%88%2Fgallery%2F%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86%2FQQ%E6%88%AA%E5%9B%BE20211104205446.png&output=webp"
+        },
+        {
+            "Id": 124,
+            "Name": "無月",
+            "Avatar": "https://schaledb.com/images/student/collection/13006.webp",
+            "type": 0,
+            "flag": 0,
+            "content": "Kufufu, 亞瑠醬還是這麼可愛呢~ "
+        },
+        {
+            "Id": 125,
+            "Name": "sensei",
+            "Avatar": "",
+            "type": 1,
+            "flag": 2,
+            "content": "喔對了, 介紹一下, 這是千年科技學院的遊戲開發部"
+        },
+        {
+            "Id": 126,
+            "Name": "柚子",
+            "Avatar": "https://schaledb.com/images/student/collection/10018.webp",
+            "type": 0,
+            "flag": 2,
+            "content": "你... 你好... 我..."
+        },
+        {
+            "Id": 127,
+            "Name": "柚子",
+            "Avatar": "https://schaledb.com/images/student/collection/10018.webp",
+            "type": 0,
+            "flag": 0,
+            "content": "https://img.vxs.nl/?url=https%3A%2F%2Fstatic.kivo.fun%2Fimages%2Fstudents%2F%E8%8A%B1%E5%86%88%20%E6%9F%9A%E5%AD%90%2Fgallery%2F%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86%2Fyuzu_spr-08_0_waifu2x_2x_1n_png.jpg&output=webp"
+        },
+        {
+            "Id": 150,
+            "Name": "sensei",
+            "Avatar": "",
+            "type": 1,
+            "flag": 2,
+            "content": "亞瑠, 這是千年遊戲社的社長花岡柚子"
+        },
+        {
+            "Id": 151,
+            "Name": "sensei",
+            "Avatar": "",
+            "type": 1,
+            "flag": 0,
+            "content": "柚子, 這是格黑娜便利屋68的社長陸八魔亞瑠"
+        },
+        {
+            "Id": 152,
+            "Name": "sensei",
+            "Avatar": "",
+            "type": 1,
+            "flag": 0,
+            "content": "來, 一起握個手吧"
+        },
+        {
+            "Id": 153,
+            "Name": "亞瑠",
+            "Avatar": "https://schaledb.com/images/student/collection/10000.webp",
+            "type": 0,
+            "flag": 2,
+            "content": "https://wsrv.nl/?url=https%3A%2F%2Fcdnimg-v2.gamekee.com%2Fwiki2.0%2Fimages%2Fw_400%2Fh_400%2F829%2F43637%2F2022%2F6%2F6%2F967285.png&output=webp"
+        },
+        {
+            "Id": 154,
+            "Name": "亞瑠",
+            "Avatar": "https://schaledb.com/images/student/collection/10000.webp",
+            "type": 0,
+            "flag": 0,
+            "content": "你好呀~ 花岡同學! "
+        },
+        {
+            "Id": 156,
+            "Name": "柚子",
+            "Avatar": "https://schaledb.com/images/student/collection/10018.webp",
+            "type": 0,
+            "flag": 2,
+            "content": "https://img.vxs.nl/?url=https%3A%2F%2Fstatic.kivo.fun%2Fimages%2Fstudents%2F%E8%8A%B1%E5%86%88%20%E6%9F%9A%E5%AD%90%2Fgallery%2F%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86%2Fyuzu_spr-03_0_waifu2x_2x_1n_png.jpg&output=webp"
+        },
+        {
+            "Id": 157,
+            "Name": "柚子",
+            "Avatar": "https://schaledb.com/images/student/collection/10018.webp",
+            "type": 0,
+            "flag": 0,
+            "content": "很高興認識你, 陸八魔社長. "
+        },
+        {
+            "Id": 158,
+            "Name": "sensei",
+            "Avatar": "",
+            "type": 1,
+            "flag": 2,
+            "content": "那我們就一起進去吧? "
+        },
+        {
+            "Id": 159,
+            "Name": "sensei",
+            "Avatar": "",
+            "type": 1,
+            "flag": 0,
+            "content": "不瞞你們說, 為師餓了..."
+        },
+        {
+            "Id": 164,
+            "Name": "systemInfo",
+            "Avatar": "",
+            "type": 4,
+            "flag": 2,
+            "content": "一行人進入了柴關拉麵內部"
+        },
+        {
+            "Id": 223,
+            "Name": "模擬參數",
+            "Avatar": "",
+            "type": 3,
+            "flag": 2,
+            "content": "背景版: 柴關拉麵\nBGM: KIRISAME"
+        },
+        {
+            "Id": 167,
+            "Name": "大將",
+            "Avatar": "https://BlueArcbox.github.io/resources/Avatars/Citizen.webp",
+            "type": 0,
+            "flag": 2,
+            "content": "呀, 是老師啊"
+        },
+        {
+            "Id": 168,
+            "Name": "一般市民",
+            "Avatar": "https://BlueArcbox.github.io/resources/Avatars/Citizen.webp",
+            "type": 0,
+            "flag": 0,
+            "content": "茜香醬, 夏萊的老師來了唷"
+        },
+        {
+            "Id": 169,
+            "Name": "茜香",
+            "Avatar": "https://wsrv.nl/?url=https%3A%2F%2Fstatic.wikia.nocookie.net%2Fblue-archive%2Fimages%2F6%2F60%2FSerika_Shibaseki_Icon.png&output=webp",
+            "type": 0,
+            "flag": 2,
+            "content": "來了來了, 什麼事情? "
+        },
+        {
+            "Id": 170,
+            "Name": "systemInfo",
+            "Avatar": "",
+            "type": 4,
+            "flag": 2,
+            "content": " . . . "
+        },
+        {
+            "Id": 173,
+            "Name": "茜香",
+            "Avatar": "https://wsrv.nl/?url=https%3A%2F%2Fstatic.wikia.nocookie.net%2Fblue-archive%2Fimages%2F6%2F60%2FSerika_Shibaseki_Icon.png&output=webp",
+            "type": 0,
+            "flag": 2,
+            "content": "https://img.vxs.nl/?url=https%3A%2F%2Fstatic.kivo.fun%2Fimages%2Fstudents%2F%E9%BB%91%E8%A7%81%20%E8%8A%B9%E9%A6%99%2Fgallery%2F%E6%89%93%E5%B7%A5%E5%88%B6%E6%9C%8D%E5%B7%AE%E5%88%86%2Fserika_shibaseki_spr_12.png&output=webp"
+        },
+        {
+            "Id": 174,
+            "Name": "茜香",
+            "Avatar": "https://wsrv.nl/?url=https%3A%2F%2Fstatic.wikia.nocookie.net%2Fblue-archive%2Fimages%2F6%2F60%2FSerika_Shibaseki_Icon.png&output=webp",
+            "type": 0,
+            "flag": 0,
+            "content": "老師, 歡迎光臨! "
+        },
+        {
+            "Id": 175,
+            "Name": "sensei",
+            "Avatar": "",
+            "type": 1,
+            "flag": 2,
+            "content": "這次人有點多喔, 茜香醬. "
+        },
+        {
+            "Id": 177,
+            "Name": "sensei",
+            "Avatar": "",
+            "type": 1,
+            "flag": 0,
+            "content": "我帶了遊戲開發部過來唷, 外加優香,一共5個人"
+        },
+        {
+            "Id": 178,
+            "Name": "sensei",
+            "Avatar": "",
+            "type": 1,
+            "flag": 0,
+            "content": "然後路上遇到了便利屋68他們四個"
+        },
+        {
+            "Id": 179,
+            "Name": "sensei",
+            "Avatar": "",
+            "type": 1,
+            "flag": 0,
+            "content": "所以一共九人喔"
+        },
+        {
+            "Id": 180,
+            "Name": "sensei",
+            "Avatar": "",
+            "type": 1,
+            "flag": 0,
+            "content": "(湊近了小聲對著茜香的耳朵) 抱歉啦茜香醬, 明天你來夏萊值日的時候我會好好補償的\n"
+        },
+        {
+            "Id": 181,
+            "Name": "茜香",
+            "Avatar": "https://wsrv.nl/?url=https%3A%2F%2Fstatic.wikia.nocookie.net%2Fblue-archive%2Fimages%2F6%2F60%2FSerika_Shibaseki_Icon.png&output=webp",
+            "type": 0,
+            "flag": 2,
+            "content": "https://img.vxs.nl/?url=https%3A%2F%2Fstatic.kivo.fun%2Fimages%2Fstudents%2F%E9%BB%91%E8%A7%81%20%E8%8A%B9%E9%A6%99%2Fgallery%2F%E6%89%93%E5%B7%A5%E5%88%B6%E6%9C%8D%E5%B7%AE%E5%88%86%2Fserika_shibaseki_spr_08.png&output=webp"
+        },
+        {
+            "Id": 182,
+            "Name": "茜香",
+            "Avatar": "https://wsrv.nl/?url=https%3A%2F%2Fstatic.wikia.nocookie.net%2Fblue-archive%2Fimages%2F6%2F60%2FSerika_Shibaseki_Icon.png&output=webp",
+            "type": 0,
+            "flag": 0,
+            "content": "嘛, 我還以為什麼天大的事情呢"
+        },
+        {
+            "Id": 183,
+            "Name": "茜香",
+            "Avatar": "https://wsrv.nl/?url=https%3A%2F%2Fstatic.wikia.nocookie.net%2Fblue-archive%2Fimages%2F6%2F60%2FSerika_Shibaseki_Icon.png&output=webp",
+            "type": 0,
+            "flag": 0,
+            "content": "只是一次來了很多客人的話, 對我來說是家常便飯"
+        },
+        {
+            "Id": 184,
+            "Name": "茜香",
+            "Avatar": "https://wsrv.nl/?url=https%3A%2F%2Fstatic.wikia.nocookie.net%2Fblue-archive%2Fimages%2F6%2F60%2FSerika_Shibaseki_Icon.png&output=webp",
+            "type": 0,
+            "flag": 0,
+            "content": "不用放在心上的, 老師"
+        },
+        {
+            "Id": 185,
+            "Name": "茜香",
+            "Avatar": "https://wsrv.nl/?url=https%3A%2F%2Fstatic.wikia.nocookie.net%2Fblue-archive%2Fimages%2F6%2F60%2FSerika_Shibaseki_Icon.png&output=webp",
+            "type": 0,
+            "flag": 0,
+            "content": "不過... (小聲) 謝謝老師居然記得明天是我值日"
+        },
+        {
+            "Id": 186,
+            "Name": "茜香",
+            "Avatar": "https://wsrv.nl/?url=https%3A%2F%2Fstatic.wikia.nocookie.net%2Fblue-archive%2Fimages%2F6%2F60%2FSerika_Shibaseki_Icon.png&output=webp",
+            "type": 0,
+            "flag": 0,
+            "content": "我自己都快工作學習忙到忘記了"
+        },
+        {
+            "Id": 187,
+            "Name": "sensei",
+            "Avatar": "",
+            "type": 1,
+            "flag": 2,
+            "content": "(同樣小聲) 唉... 阿拜多斯的問題這麼拖下去也不是個辦法..."
+        },
+        {
+            "Id": 188,
+            "Name": "sensei",
+            "Avatar": "",
+            "type": 1,
+            "flag": 0,
+            "content": "💡"
+        },
+        {
+            "Id": 189,
+            "Name": "sensei",
+            "Avatar": "",
+            "type": 1,
+            "flag": 0,
+            "content": "茜香, 我今天是開車來的, 要不要今晚來夏萊住一晚? 省得你明天還要再跑一趟的. "
+        },
+        {
+            "Id": 190,
+            "Name": "sensei",
+            "Avatar": "",
+            "type": 1,
+            "flag": 0,
+            "content": "你應該也知道, 夏萊其實有一層樓全部是旅店客房"
+        },
+        {
+            "Id": 191,
+            "Name": "sensei",
+            "Avatar": "",
+            "type": 1,
+            "flag": 0,
+            "content": "我想, 會長留下這些恐怕也是處於這個考慮的吧? "
+        },
+        {
+            "Id": 192,
+            "Name": "sensei",
+            "Avatar": "",
+            "type": 1,
+            "flag": 0,
+            "content": "順便, 我想聽聽你對於阿拜多斯未來出路的真實想法"
+        },
+        {
+            "Id": 193,
+            "Name": "sensei",
+            "Avatar": "",
+            "type": 1,
+            "flag": 0,
+            "content": "你們的債務, 環境, 招生等等問題"
+        },
+        {
+            "Id": 224,
+            "Name": "模擬參數\n",
+            "Avatar": "",
+            "type": 3,
+            "flag": 2,
+            "content": "背景版: 柴關拉麵\nBGM: Unwelcome School"
+        },
+        {
+            "Id": 194,
+            "Name": "茜香",
+            "Avatar": "https://wsrv.nl/?url=https%3A%2F%2Fstatic.wikia.nocookie.net%2Fblue-archive%2Fimages%2F6%2F60%2FSerika_Shibaseki_Icon.png&output=webp",
+            "type": 0,
+            "flag": 2,
+            "content": "https://img.vxs.nl/?url=https%3A%2F%2Fstatic.kivo.fun%2Fimages%2Fstudents%2F%E9%BB%91%E8%A7%81%20%E8%8A%B9%E9%A6%99%2Fgallery%2F%E6%89%93%E5%B7%A5%E5%88%B6%E6%9C%8D%E5%B7%AE%E5%88%86%2Fserika_shibaseki_spr_07.png&output=webp"
+        },
+        {
+            "Id": 195,
+            "Name": "茜香",
+            "Avatar": "https://wsrv.nl/?url=https%3A%2F%2Fstatic.wikia.nocookie.net%2Fblue-archive%2Fimages%2F6%2F60%2FSerika_Shibaseki_Icon.png&output=webp",
+            "type": 0,
+            "flag": 0,
+            "content": "誒? 欸欸欸? 老師你你你你你你要不要停下來聽一聽自己在說什麼呀啊啊..."
+        },
+        {
+            "Id": 196,
+            "Name": "sensei",
+            "Avatar": "",
+            "type": 1,
+            "flag": 2,
+            "content": "? "
+        },
+        {
+            "Id": 197,
+            "Name": "愛麗絲",
+            "Avatar": "https://schaledb.com/images/student/collection/10015.webp",
+            "type": 0,
+            "flag": 2,
+            "content": "https://wsrv.nl/?url=https%3A%2F%2Fcdnimg-v2.gamekee.com%2Fwiki2.0%2Fimages%2Fw_241%2Fh_241%2F829%2F43637%2F2022%2F7%2F6%2F837125.png&output=webp"
+        },
+        {
+            "Id": 198,
+            "Name": "愛麗絲",
+            "Avatar": "https://schaledb.com/images/student/collection/10015.webp",
+            "type": 0,
+            "flag": 0,
+            "content": "愛麗絲見過這種情節! "
+        },
+        {
+            "Id": 199,
+            "Name": "愛麗絲",
+            "Avatar": "https://schaledb.com/images/student/collection/10015.webp",
+            "type": 0,
+            "flag": 0,
+            "content": "小綠給我看過這種漫畫的喔\n"
+        },
+        {
+            "Id": 200,
+            "Name": "綠",
+            "Avatar": "https://schaledb.com/images/student/collection/10016.webp",
+            "type": 0,
+            "flag": 2,
+            "content": "https://img.vxs.nl/?url=https%3A%2F%2Fstatic.kivo.fun%2Fimages%2Fstudents%2F%E6%89%8D%E7%BE%BD%20%E7%BB%BF%2Fgallery%2F%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86%2Fmidori_spr-04_0_waifu2x_2x_2n_png.jpg&output=webp"
+        },
+        {
+            "Id": 201,
+            "Name": "綠",
+            "Avatar": "https://schaledb.com/images/student/collection/10016.webp",
+            "type": 0,
+            "flag": 0,
+            "content": "愛麗絲你快別說了我不是我沒有啊——"
+        },
+        {
+            "Id": 202,
+            "Name": "桃井",
+            "Avatar": "https://schaledb.com/images/student/collection/13011.webp",
+            "type": 0,
+            "flag": 2,
+            "content": "欸? 你們在說什麼有意思的話題? "
+        },
+        {
+            "Id": 203,
+            "Name": "茜香",
+            "Avatar": "https://wsrv.nl/?url=https%3A%2F%2Fstatic.wikia.nocookie.net%2Fblue-archive%2Fimages%2F6%2F60%2FSerika_Shibaseki_Icon.png&output=webp",
+            "type": 0,
+            "flag": 2,
+            "content": "https://img.vxs.nl/?url=https%3A%2F%2Fstatic.kivo.fun%2Fimages%2Fstudents%2F%E9%BB%91%E8%A7%81%20%E8%8A%B9%E9%A6%99%2Fgallery%2F%E6%89%93%E5%B7%A5%E5%88%B6%E6%9C%8D%E5%B7%AE%E5%88%86%2Fserika_shibaseki_spr_12.png&output=webp"
+        },
+        {
+            "Id": 204,
+            "Name": "茜香",
+            "Avatar": "https://wsrv.nl/?url=https%3A%2F%2Fstatic.wikia.nocookie.net%2Fblue-archive%2Fimages%2F6%2F60%2FSerika_Shibaseki_Icon.png&output=webp",
+            "type": 0,
+            "flag": 0,
+            "content": "(小聲對老師) 不過, 如果是老師的話, 沒問題的唷 "
+        },
+        {
+            "Id": 225,
+            "Name": "模擬參數",
+            "Avatar": "",
+            "type": 3,
+            "flag": 2,
+            "content": "背景版: 柴關拉麵\nBGM: Lovely Picnic"
+        },
+        {
+            "Id": 205,
+            "Name": "sensei",
+            "Avatar": "",
+            "type": 1,
+            "flag": 2,
+            "content": "(繼續小聲) 茜香醬最好啦! "
+        },
+        {
+            "Id": 206,
+            "Name": "茜香",
+            "Avatar": "https://wsrv.nl/?url=https%3A%2F%2Fstatic.wikia.nocookie.net%2Fblue-archive%2Fimages%2F6%2F60%2FSerika_Shibaseki_Icon.png&output=webp",
+            "type": 0,
+            "flag": 2,
+            "content": "https://img.vxs.nl/?url=https%3A%2F%2Fstatic.kivo.fun%2Fimages%2Fstudents%2F%E9%BB%91%E8%A7%81%20%E8%8A%B9%E9%A6%99%2Fgallery%2F%E6%89%93%E5%B7%A5%E5%88%B6%E6%9C%8D%E5%B7%AE%E5%88%86%2Fserika_shibaseki_spr_03.png&output=webp"
+        },
+        {
+            "Id": 207,
+            "Name": "茜香",
+            "Avatar": "https://wsrv.nl/?url=https%3A%2F%2Fstatic.wikia.nocookie.net%2Fblue-archive%2Fimages%2F6%2F60%2FSerika_Shibaseki_Icon.png&output=webp",
+            "type": 0,
+            "flag": 0,
+            "content": "好啦好啦, 大家這裡請~ "
+        },
+        {
+            "Id": 208,
+            "Name": "茜香",
+            "Avatar": "https://wsrv.nl/?url=https%3A%2F%2Fstatic.wikia.nocookie.net%2Fblue-archive%2Fimages%2F6%2F60%2FSerika_Shibaseki_Icon.png&output=webp",
+            "type": 0,
+            "flag": 0,
+            "content": "各位要喝什麼嗎? "
+        },
+        {
+            "Id": 209,
+            "Name": "柚子",
+            "Avatar": "https://schaledb.com/images/student/collection/10018.webp",
+            "type": 0,
+            "flag": 2,
+            "content": "冰水就好, 謝謝. "
+        },
+        {
+            "Id": 210,
+            "Name": "愛麗絲",
+            "Avatar": "https://schaledb.com/images/student/collection/10015.webp",
+            "type": 0,
+            "flag": 2,
+            "content": "愛麗絲也是. "
+        },
+        {
+            "Id": 211,
+            "Name": "綠",
+            "Avatar": "https://schaledb.com/images/student/collection/10016.webp",
+            "type": 0,
+            "flag": 2,
+            "content": "我的話, 果然還是咖啡吧. "
+        },
+        {
+            "Id": 212,
+            "Name": "桃井",
+            "Avatar": "https://schaledb.com/images/student/collection/13011.webp",
+            "type": 0,
+            "flag": 2,
+            "content": "我要冰的山露汽水! "
+        },
+        {
+            "Id": 215,
+            "Name": "sensei",
+            "Avatar": "",
+            "type": 1,
+            "flag": 2,
+            "content": "格黑娜方面呢? "
+        },
+        {
+            "Id": 216,
+            "Name": "sensei",
+            "Avatar": "",
+            "type": 1,
+            "flag": 0,
+            "content": "沒關係的, 最後肯定是為師請客"
+        },
+        {
+            "Id": 217,
+            "Name": "亞瑠",
+            "Avatar": "https://schaledb.com/images/student/collection/10000.webp",
+            "type": 0,
+            "flag": 2,
+            "content": "啊? 老師要買單嗎? 可是我們本來就是來開慶功宴的..."
+        },
+        {
+            "Id": 218,
+            "Name": "佳世子",
+            "Avatar": "https://schaledb.com/images/student/collection/13005.webp",
+            "type": 0,
+            "flag": 2,
+            "content": "社長啊, 我們是不是剛把上個月的水電網費湊齊? 剩下的不會就只剩一頓飯錢了吧? "
+        },
+        {
+            "Id": 219,
+            "Name": "佳世子",
+            "Avatar": "https://schaledb.com/images/student/collection/13005.webp",
+            "type": 0,
+            "flag": 0,
+            "content": "不行就我來結帳吧? "
+        },
+        {
+            "Id": 220,
+            "Name": "sensei",
+            "Avatar": "",
+            "type": 1,
+            "flag": 2,
+            "content": "啊? 還有這種事情, 亞瑠? "
+        },
+        {
+            "Id": 221,
+            "Name": "無月",
+            "Avatar": "https://schaledb.com/images/student/collection/13006.webp",
+            "type": 0,
+            "flag": 2,
+            "content": "Kufufu~ 亞瑠醬的小心思一眼就被老師知道了, 接下來會是什麼反應呢? "
+        },
+        {
+            "Id": 222,
+            "Name": "遙香",
+            "Avatar": "https://schaledb.com/images/student/collection/16000.webp",
+            "type": 0,
+            "flag": 2,
+            "content": "亞瑠大人..."
+        },
+        {
+            "Id": 226,
+            "Name": "sensei",
+            "Avatar": "",
+            "type": 1,
+            "flag": 2,
+            "content": "果然嗎, 亞瑠? 不然還是我來付錢吧? "
+        },
+        {
+            "Id": 227,
+            "Name": "亞瑠",
+            "Avatar": "https://schaledb.com/images/student/collection/10000.webp",
+            "type": 0,
+            "flag": 2,
+            "content": "https://wsrv.nl/?url=https%3A%2F%2Fcdnimg-v2.gamekee.com%2Fwiki2.0%2Fimages%2Fw_267%2Fh_267%2F829%2F43637%2F2022%2F7%2F6%2F725477.png&output=webp"
+        },
+        {
+            "Id": 228,
+            "Name": "亞瑠",
+            "Avatar": "https://schaledb.com/images/student/collection/10000.webp",
+            "type": 0,
+            "flag": 0,
+            "content": "那... 那就這樣吧, 老師. 謝謝您了. "
+        },
+        {
+            "Id": 230,
+            "Name": "優香",
+            "Avatar": "https://schaledb.com/images/student/collection/13010.webp",
+            "type": 0,
+            "flag": 2,
+            "content": "聽起來這位同學似乎對於金融管理方面的技能有些缺失啊? "
+        },
+        {
+            "Id": 231,
+            "Name": "優香",
+            "Avatar": "https://schaledb.com/images/student/collection/13010.webp",
+            "type": 0,
+            "flag": 0,
+            "content": "有沒有興趣讓我看看你們目前的運營情況? "
+        },
+        {
+            "Id": 232,
+            "Name": "sensei",
+            "Avatar": "",
+            "type": 1,
+            "flag": 2,
+            "content": "欸? 優香? 沒問題嗎? "
+        },
+        {
+            "Id": 233,
+            "Name": "優香",
+            "Avatar": "https://schaledb.com/images/student/collection/13010.webp",
+            "type": 0,
+            "flag": 2,
+            "content": "其實我在千年也經常聽說便利店68這個神秘的犯罪團夥"
+        },
+        {
+            "Id": 234,
+            "Name": "優香",
+            "Avatar": "https://schaledb.com/images/student/collection/13010.webp",
+            "type": 0,
+            "flag": 0,
+            "content": "只是真的沒有想過, 傳說中那個無惡不作萬劫不復的社長... "
+        },
+        {
+            "Id": 235,
+            "Name": "優香",
+            "Avatar": "https://schaledb.com/images/student/collection/13010.webp",
+            "type": 0,
+            "flag": 0,
+            "content": "居然會有資金週轉的問題"
+        },
+        {
+            "Id": 236,
+            "Name": "優香",
+            "Avatar": "https://schaledb.com/images/student/collection/13010.webp",
+            "type": 0,
+            "flag": 0,
+            "content": "所以我現在很感興趣, 想要認真分析計算一下"
+        },
+        {
+            "Id": 238,
+            "Name": "優香",
+            "Avatar": "https://schaledb.com/images/student/collection/13010.webp",
+            "type": 0,
+            "flag": 0,
+            "content": "當然這和我的職務沒有任何關係"
+        },
+        {
+            "Id": 239,
+            "Name": "優香",
+            "Avatar": "https://schaledb.com/images/student/collection/13010.webp",
+            "type": 0,
+            "flag": 0,
+            "content": "可以嗎, 老師? "
+        },
+        {
+            "Id": 240,
+            "Name": "綠",
+            "Avatar": "https://schaledb.com/images/student/collection/10016.webp",
+            "type": 0,
+            "flag": 2,
+            "content": "哇, 是認真模式的優香前輩. "
+        },
+        {
+            "Id": 241,
+            "Name": "佳世子",
+            "Avatar": "https://schaledb.com/images/student/collection/13005.webp",
+            "type": 0,
+            "flag": 2,
+            "content": "https://img.vxs.nl/?url=https%3A%2F%2Fstatic.kivo.fun%2Fimages%2Fstudents%2F%E9%AC%BC%E6%96%B9%20%E4%BD%B3%E4%BB%A3%E5%AD%90%2Fgallery%2F%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86%2Fkayoko_spr-06_0_waifu2x_2x_2n_png.jpg&output=webp"
+        },
+        {
+            "Id": 242,
+            "Name": "佳世子",
+            "Avatar": "https://schaledb.com/images/student/collection/13005.webp",
+            "type": 0,
+            "flag": 0,
+            "content": "我沒意見"
+        },
+        {
+            "Id": 243,
+            "Name": "亞瑠",
+            "Avatar": "https://schaledb.com/images/student/collection/10000.webp",
+            "type": 0,
+            "flag": 2,
+            "content": "https://img.vxs.nl/?url=https%3A%2F%2Fstatic.kivo.fun%2Fimages%2Fstudents%2F%E9%99%86%E5%85%AB%E9%AD%94%20%E9%98%BF%E9%9C%B2%2Fgallery%2F%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86%2FQQ%E6%88%AA%E5%9B%BE20211115183244.png&output=webp"
+        },
+        {
+            "Id": 244,
+            "Name": "亞瑠",
+            "Avatar": "https://schaledb.com/images/student/collection/10000.webp",
+            "type": 0,
+            "flag": 0,
+            "content": "無妨, 借助顧問老師的人脈, 適當地拓展我們的盟友網絡總是好的"
+        },
+        {
+            "Id": 245,
+            "Name": "亞瑠",
+            "Avatar": "https://schaledb.com/images/student/collection/10000.webp",
+            "type": 0,
+            "flag": 0,
+            "content": "早瀨優香同學, 便利屋68隨時歡迎您的到來"
+        },
+        {
+            "Id": 247,
+            "Name": "優香",
+            "Avatar": "https://schaledb.com/images/student/collection/13010.webp",
+            "type": 0,
+            "flag": 2,
+            "content": "'優香'就好, 陸八魔亞瑠同學, 不妨先交換下Momotalk吧? "
+        },
+        {
+            "Id": 248,
+            "Name": "亞瑠",
+            "Avatar": "https://schaledb.com/images/student/collection/10000.webp",
+            "type": 0,
+            "flag": 2,
+            "content": "https://img.vxs.nl/?url=https%3A%2F%2Fstatic.kivo.fun%2Fimages%2Fstudents%2F%E9%99%86%E5%85%AB%E9%AD%94%20%E9%98%BF%E9%9C%B2%2Fgallery%2F%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86%2FQQ%E6%88%AA%E5%9B%BE20211115183404.png&output=webp"
+        },
+        {
+            "Id": 249,
+            "Name": "亞瑠",
+            "Avatar": "https://schaledb.com/images/student/collection/10000.webp",
+            "type": 0,
+            "flag": 0,
+            "content": "欸? 好的"
+        },
+        {
+            "Id": 250,
+            "Name": "systemInfo",
+            "Avatar": "",
+            "type": 4,
+            "flag": 2,
+            "content": "於是在歡聲笑語中結束了一天, 把遊戲部的各位和優香送回家, 然後是格黑娜, 最後回到阿拜多斯接上茜香時已經是22時了"
+        },
+        {
+            "Id": 264,
+            "Name": "systemInfo",
+            "Avatar": "",
+            "type": 4,
+            "flag": 0,
+            "content": "再回到夏萊早就過了午夜了, 洗完澡以後只穿著內衣躺在夏萊的沙發上便睡著了"
+        },
+        {
+            "Id": 265,
+            "Name": "sensei",
+            "Avatar": "",
+            "type": 1,
+            "flag": 2,
+            "content": "好像忘了點什麼? 算了太睏了明天再說了"
+        },
+        {
+            "Id": 266,
+            "Name": "sensei",
+            "Avatar": "",
+            "type": 1,
+            "flag": 0,
+            "content": "zzzzZZZ"
+        }
+    ],
+    "selectList": [
+        {
+            "Id": 13008,
+            "Name": "茜香",
+            "Avatar": "https://wsrv.nl/?url=https%3A%2F%2Fstatic.wikia.nocookie.net%2Fblue-archive%2Fimages%2F6%2F60%2FSerika_Shibaseki_Icon.png&output=webp"
+        },
+        {
+            "Id": 13008,
+            "Name": "茜香",
+            "Avatar": "https://schaledb.com/images/student/collection/13008.webp"
+        },
+        {
+            "Id": 902,
+            "Name": "一般市民",
+            "Avatar": "https://BlueArcbox.github.io/resources/Avatars/Citizen.webp"
+        },
+        {
+            "Id": 16000,
+            "Name": "遙香",
+            "Avatar": "https://schaledb.com/images/student/collection/16000.webp"
+        },
+        {
+            "Id": 13005,
+            "Name": "佳世子",
+            "Avatar": "https://schaledb.com/images/student/collection/13005.webp"
+        },
+        {
+            "Id": 13006,
+            "Name": "無月",
+            "Avatar": "https://schaledb.com/images/student/collection/13006.webp"
+        },
+        {
+            "Id": 13010,
+            "Name": "優香",
+            "Avatar": "https://schaledb.com/images/student/collection/13010.webp"
+        },
+        {
+            "Id": 10000,
+            "Name": "亞瑠",
+            "Avatar": "https://schaledb.com/images/student/collection/10000.webp"
+        },
+        {
+            "Id": 125,
+            "Name": "黑服",
+            "Avatar": "https://BlueArcbox.github.io/resources/Avatars/Kurofuku.webp"
+        },
+        {
+            "Id": 104,
+            "Name": "彩奈",
+            "Avatar": "https://BlueArcbox.github.io/resources/Avatars/Arona.webp"
+        },
+        {
+            "Id": 173,
+            "Name": "星奈",
+            "Avatar": "https://BlueArcbox.github.io/resources/Avatars/Purana.webp"
+        },
+        {
+            "Id": 10005,
+            "Name": "星野",
+            "Avatar": "https://schaledb.com/images/student/collection/10005.webp"
+        },
+        {
+            "Id": 10010,
+            "Name": "白子",
+            "Avatar": "https://schaledb.com/images/student/collection/10010.webp"
+        },
+        {
+            "Id": 10003,
+            "Name": "日步美",
+            "Avatar": "https://schaledb.com/images/student/collection/10003.webp"
+        },
+        {
+            "Id": 10020,
+            "Name": "小春",
+            "Avatar": "https://schaledb.com/images/student/collection/10020.webp"
+        },
+        {
+            "Id": 23007,
+            "Name": "花子",
+            "Avatar": "https://schaledb.com/images/student/collection/23007.webp"
+        },
+        {
+            "Id": 10019,
+            "Name": "梓",
+            "Avatar": "https://schaledb.com/images/student/collection/10019.webp"
+        },
+        {
+            "Id": 10018,
+            "Name": "柚子",
+            "Avatar": "https://schaledb.com/images/student/collection/10018.webp"
+        },
+        {
+            "Id": 10015,
+            "Name": "愛麗絲",
+            "Avatar": "https://schaledb.com/images/student/collection/10015.webp"
+        },
+        {
+            "Id": 10016,
+            "Name": "綠",
+            "Avatar": "https://schaledb.com/images/student/collection/10016.webp"
+        },
+        {
+            "Id": 13011,
+            "Name": "桃井",
+            "Avatar": "https://schaledb.com/images/student/collection/13011.webp"
+        }
+    ]
+}

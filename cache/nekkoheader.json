@@ -1,0 +1,381 @@
+{
+    "talkId": 53,
+    "talkHistory": [
+        {
+            "Id": 0,
+            "Name": "systemInfo",
+            "Avatar": "",
+            "type": 4,
+            "flag": 2,
+            "content": "希迪姆的箱子內部 (晚間)"
+        },
+        {
+            "Id": 3,
+            "Name": "星奈",
+            "Avatar": "https://BlueArcbox.github.io/resources/Avatars/Purana.webp",
+            "type": 0,
+            "flag": 2,
+            "content": "https://wsrv.nl/?url=https%3A%2F%2Fcdnimg.gamekee.com%2Fwiki2.0%2Fimages%2Fw_550%2Fh_550%2F829%2F334972%2F2023%2F10%2F27%2F626068.png&output=webp"
+        },
+        {
+            "Id": 4,
+            "Name": "星奈",
+            "Avatar": "https://BlueArcbox.github.io/resources/Avatars/Purana.webp",
+            "type": 0,
+            "flag": 0,
+            "content": "老師, 您知道'平行世界'理論嗎? "
+        },
+        {
+            "Id": 6,
+            "Name": "星奈",
+            "Avatar": "https://BlueArcbox.github.io/resources/Avatars/Purana.webp",
+            "type": 0,
+            "flag": 0,
+            "content": "那是, 與我們所在的世界無限相似"
+        },
+        {
+            "Id": 8,
+            "Name": "星奈",
+            "Avatar": "https://BlueArcbox.github.io/resources/Avatars/Purana.webp",
+            "type": 0,
+            "flag": 0,
+            "content": "但是世界, 或是老師您, 做出了不同的選擇"
+        },
+        {
+            "Id": 9,
+            "Name": "星奈",
+            "Avatar": "https://BlueArcbox.github.io/resources/Avatars/Purana.webp",
+            "type": 0,
+            "flag": 0,
+            "content": "又或是發生了什麼概率學的奇蹟"
+        },
+        {
+            "Id": 10,
+            "Name": "星奈",
+            "Avatar": "https://BlueArcbox.github.io/resources/Avatars/Purana.webp",
+            "type": 0,
+            "flag": 0,
+            "content": "哪怕是最微小的變量"
+        },
+        {
+            "Id": 11,
+            "Name": "星奈",
+            "Avatar": "https://BlueArcbox.github.io/resources/Avatars/Purana.webp",
+            "type": 0,
+            "flag": 0,
+            "content": "都會導向一個完全不同的世界"
+        },
+        {
+            "Id": 12,
+            "Name": "星奈",
+            "Avatar": "https://BlueArcbox.github.io/resources/Avatars/Purana.webp",
+            "type": 0,
+            "flag": 1,
+            "content": "比如說, 我也是'平行世界'的居民\n"
+        },
+        {
+            "Id": 13,
+            "Name": "星奈",
+            "Avatar": "https://BlueArcbox.github.io/resources/Avatars/Purana.webp",
+            "type": 0,
+            "flag": 0,
+            "content": "我, 和他一樣, 都是'A.R.O.N.A.'"
+        },
+        {
+            "Id": 14,
+            "Name": "彩奈",
+            "Avatar": "https://BlueArcbox.github.io/resources/Avatars/Arona.webp",
+            "type": 0,
+            "flag": 2,
+            "content": "https://wsrv.nl/?url=https%3A%2F%2Fcdnimg.gamekee.com%2Fwiki2.0%2Fimages%2Fw_252%2Fh_204%2F829%2F43637%2F2022%2F6%2F3%2F566384.png&output=webp"
+        },
+        {
+            "Id": 16,
+            "Name": "彩奈",
+            "Avatar": "https://BlueArcbox.github.io/resources/Avatars/Arona.webp",
+            "type": 0,
+            "flag": 0,
+            "content": "zzzzzZZZZZ"
+        },
+        {
+            "Id": 17,
+            "Name": "星奈",
+            "Avatar": "https://BlueArcbox.github.io/resources/Avatars/Purana.webp",
+            "type": 0,
+            "flag": 2,
+            "content": "我想讓您記住的是"
+        },
+        {
+            "Id": 18,
+            "Name": "星奈",
+            "Avatar": "https://BlueArcbox.github.io/resources/Avatars/Purana.webp",
+            "type": 0,
+            "flag": 0,
+            "content": "'平行世界'並不僅限存在"
+        },
+        {
+            "Id": 21,
+            "Name": "星奈",
+            "Avatar": "https://BlueArcbox.github.io/resources/Avatars/Purana.webp",
+            "type": 0,
+            "flag": 0,
+            "content": "我代表的"
+        },
+        {
+            "Id": 22,
+            "Name": "星奈",
+            "Avatar": "https://BlueArcbox.github.io/resources/Avatars/Purana.webp",
+            "type": 0,
+            "flag": 0,
+            "content": "和您所代表的"
+        },
+        {
+            "Id": 23,
+            "Name": "星奈",
+            "Avatar": "https://BlueArcbox.github.io/resources/Avatars/Purana.webp",
+            "type": 0,
+            "flag": 0,
+            "content": "兩個實例而已"
+        },
+        {
+            "Id": 19,
+            "Name": "星奈",
+            "Avatar": "https://BlueArcbox.github.io/resources/Avatars/Purana.webp",
+            "type": 0,
+            "flag": 1,
+            "content": "哪怕極其相似"
+        },
+        {
+            "Id": 20,
+            "Name": "星奈",
+            "Avatar": "https://BlueArcbox.github.io/resources/Avatars/Purana.webp",
+            "type": 0,
+            "flag": 0,
+            "content": "卻又有著些許不同的世界"
+        },
+        {
+            "Id": 24,
+            "Name": "星奈",
+            "Avatar": "https://BlueArcbox.github.io/resources/Avatars/Purana.webp",
+            "type": 0,
+            "flag": 0,
+            "content": "這樣的世界存在有無數個"
+        },
+        {
+            "Id": 26,
+            "Name": "星奈",
+            "Avatar": "https://BlueArcbox.github.io/resources/Avatars/Purana.webp",
+            "type": 0,
+            "flag": 1,
+            "content": "https://wsrv.nl/?url=https%3A%2F%2Fcdnimg.gamekee.com%2Fwiki2.0%2Fimages%2Fw_550%2Fh_550%2F829%2F334972%2F2023%2F10%2F27%2F809006.png&output=webp"
+        },
+        {
+            "Id": 27,
+            "Name": "星奈",
+            "Avatar": "https://BlueArcbox.github.io/resources/Avatars/Purana.webp",
+            "type": 0,
+            "flag": 0,
+            "content": "而接下來我想要與老師分享的"
+        },
+        {
+            "Id": 28,
+            "Name": "星奈",
+            "Avatar": "https://BlueArcbox.github.io/resources/Avatars/Purana.webp",
+            "type": 0,
+            "flag": 0,
+            "content": "就是那樣一個"
+        },
+        {
+            "Id": 29,
+            "Name": "星奈",
+            "Avatar": "https://BlueArcbox.github.io/resources/Avatars/Purana.webp",
+            "type": 0,
+            "flag": 0,
+            "content": "和我們有著些許不同的世界"
+        },
+        {
+            "Id": 30,
+            "Name": "星奈",
+            "Avatar": "https://BlueArcbox.github.io/resources/Avatars/Purana.webp",
+            "type": 0,
+            "flag": 1,
+            "content": "https://wsrv.nl/?url=https%3A%2F%2Fcdnimg.gamekee.com%2Fwiki2.0%2Fimages%2Fw_550%2Fh_550%2F829%2F334972%2F2023%2F10%2F27%2F69144.png&output=webp"
+        },
+        {
+            "Id": 31,
+            "Name": "星奈",
+            "Avatar": "https://BlueArcbox.github.io/resources/Avatars/Purana.webp",
+            "type": 0,
+            "flag": 0,
+            "content": "這是"
+        },
+        {
+            "Id": 32,
+            "Name": "星奈",
+            "Avatar": "https://BlueArcbox.github.io/resources/Avatars/Purana.webp",
+            "type": 0,
+            "flag": 0,
+            "content": "某一個奇普托斯的故事"
+        },
+        {
+            "Id": 33,
+            "Name": "systemInfo",
+            "Avatar": "",
+            "type": 4,
+            "flag": 2,
+            "content": "(以上內容原作: Nekko)"
+        },
+        {
+            "Id": 34,
+            "Name": "奇普托斯實例'~/.pyenv/5172153.6406/217654/'",
+            "Avatar": "",
+            "type": 2,
+            "flag": 2,
+            "content": "請自行想像以下劇情"
+        },
+        {
+            "Id": 35,
+            "Name": "模擬參數",
+            "Avatar": "",
+            "type": 3,
+            "flag": 2,
+            "content": "背景版: 夏萊辦公室\nBGM: 開發部日常的小曲 (Pixel Time)"
+        },
+        {
+            "Id": 36,
+            "Name": "綠",
+            "Avatar": "https://schaledb.com/images/student/collection/10016.webp",
+            "type": 0,
+            "flag": 2,
+            "content": "https://img.vxs.nl/?url=https%3A%2F%2Fstatic.kivo.fun%2Fimages%2Fstudents%2F%E6%89%8D%E7%BE%BD%20%E7%BB%BF%2Fgallery%2F%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86%2Fmidori_spr-03_0_waifu2x_2x_2n_png.jpg&output=webp"
+        },
+        {
+            "Id": 37,
+            "Name": "綠",
+            "Avatar": "https://schaledb.com/images/student/collection/10016.webp",
+            "type": 0,
+            "flag": 0,
+            "content": "姐姐~ 還不投降嗎? "
+        },
+        {
+            "Id": 38,
+            "Name": "桃井",
+            "Avatar": "https://schaledb.com/images/student/collection/13011.webp",
+            "type": 0,
+            "flag": 2,
+            "content": "https://wsrv.nl/?url=https%3A%2F%2Fcdnimg-v2.gamekee.com%2Fwiki2.0%2Fimages%2Fw_500%2Fh_500%2F829%2F43637%2F2023%2F2%2F2%2F381462.png&output=webp"
+        },
+        {
+            "Id": 39,
+            "Name": "桃井",
+            "Avatar": "https://schaledb.com/images/student/collection/13011.webp",
+            "type": 0,
+            "flag": 0,
+            "content": "這時候投降了的話\n"
+        },
+        {
+            "Id": 40,
+            "Name": "桃井",
+            "Avatar": "https://schaledb.com/images/student/collection/13011.webp",
+            "type": 0,
+            "flag": 0,
+            "content": "那不就是半途而廢了嘛"
+        },
+        {
+            "Id": 41,
+            "Name": "桃井",
+            "Avatar": "https://schaledb.com/images/student/collection/13011.webp",
+            "type": 0,
+            "flag": 0,
+            "content": "而我 才羽桃井 永不放棄! "
+        },
+        {
+            "Id": 44,
+            "Name": "systemInfo",
+            "Avatar": "",
+            "type": 4,
+            "flag": 2,
+            "content": "玩家cyber_green勝出! "
+        },
+        {
+            "Id": 46,
+            "Name": "桃井",
+            "Avatar": "https://schaledb.com/images/student/collection/13011.webp",
+            "type": 0,
+            "flag": 2,
+            "content": "https://BlueArcbox.github.io/resources/Stickers/13.webp"
+        }
+    ],
+    "selectList": [
+        {
+            "Id": 10000,
+            "Name": "亞瑠",
+            "Avatar": "https://schaledb.com/images/student/collection/10000.webp"
+        },
+        {
+            "Id": 125,
+            "Name": "黑服",
+            "Avatar": "https://BlueArcbox.github.io/resources/Avatars/Kurofuku.webp"
+        },
+        {
+            "Id": 104,
+            "Name": "彩奈",
+            "Avatar": "https://BlueArcbox.github.io/resources/Avatars/Arona.webp"
+        },
+        {
+            "Id": 173,
+            "Name": "星奈",
+            "Avatar": "https://BlueArcbox.github.io/resources/Avatars/Purana.webp"
+        },
+        {
+            "Id": 10005,
+            "Name": "星野",
+            "Avatar": "https://schaledb.com/images/student/collection/10005.webp"
+        },
+        {
+            "Id": 10010,
+            "Name": "白子",
+            "Avatar": "https://schaledb.com/images/student/collection/10010.webp"
+        },
+        {
+            "Id": 10003,
+            "Name": "日步美",
+            "Avatar": "https://schaledb.com/images/student/collection/10003.webp"
+        },
+        {
+            "Id": 10020,
+            "Name": "小春",
+            "Avatar": "https://schaledb.com/images/student/collection/10020.webp"
+        },
+        {
+            "Id": 23007,
+            "Name": "花子",
+            "Avatar": "https://schaledb.com/images/student/collection/23007.webp"
+        },
+        {
+            "Id": 10019,
+            "Name": "梓",
+            "Avatar": "https://schaledb.com/images/student/collection/10019.webp"
+        },
+        {
+            "Id": 10018,
+            "Name": "柚子",
+            "Avatar": "https://schaledb.com/images/student/collection/10018.webp"
+        },
+        {
+            "Id": 10015,
+            "Name": "愛麗絲",
+            "Avatar": "https://schaledb.com/images/student/collection/10015.webp"
+        },
+        {
+            "Id": 10016,
+            "Name": "綠",
+            "Avatar": "https://schaledb.com/images/student/collection/10016.webp"
+        },
+        {
+            "Id": 13011,
+            "Name": "桃井",
+            "Avatar": "https://schaledb.com/images/student/collection/13011.webp"
+        }
+    ]
+}

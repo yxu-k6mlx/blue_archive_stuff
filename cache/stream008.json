@@ -1,0 +1,461 @@
+{
+    "talkId": 76,
+    "talkHistory": [
+        {
+            "Id": 4,
+            "Name": "茜香",
+            "Avatar": "https://schaledb.com/images/student/collection/13008.webp",
+            "type": 0,
+            "flag": 2,
+            "content": "https://wsrv.nl/?url=https%3A%2F%2Fcdnimg-v2.gamekee.com%2Fwiki2.0%2Fimages%2Fw_200%2Fh_200%2F829%2F43637%2F2023%2F2%2F6%2F994416.png&output=webp"
+        },
+        {
+            "Id": 5,
+            "Name": "茜香",
+            "Avatar": "https://schaledb.com/images/student/collection/13008.webp",
+            "type": 0,
+            "flag": 0,
+            "content": "什麼嘛"
+        },
+        {
+            "Id": 6,
+            "Name": "茜香",
+            "Avatar": "https://schaledb.com/images/student/collection/13008.webp",
+            "type": 0,
+            "flag": 0,
+            "content": "怎麼就自顧自地在沙發上睡著了啊"
+        },
+        {
+            "Id": 7,
+            "Name": "茜香",
+            "Avatar": "https://schaledb.com/images/student/collection/13008.webp",
+            "type": 0,
+            "flag": 0,
+            "content": "連客房的鑰匙都還沒給我呢..."
+        },
+        {
+            "Id": 8,
+            "Name": "茜香",
+            "Avatar": "https://schaledb.com/images/student/collection/13008.webp",
+            "type": 0,
+            "flag": 1,
+            "content": "唉, 沒辦法了"
+        },
+        {
+            "Id": 9,
+            "Name": "茜香",
+            "Avatar": "https://schaledb.com/images/student/collection/13008.webp",
+            "type": 0,
+            "flag": 0,
+            "content": "就先這樣吧"
+        },
+        {
+            "Id": 10,
+            "Name": "茜香",
+            "Avatar": "https://schaledb.com/images/student/collection/13008.webp",
+            "type": 0,
+            "flag": 0,
+            "content": "把沙發放下來"
+        },
+        {
+            "Id": 11,
+            "Name": "茜香",
+            "Avatar": "https://schaledb.com/images/student/collection/13008.webp",
+            "type": 0,
+            "flag": 0,
+            "content": "然後去一趟老師的浴室把衣服洗了...\n"
+        },
+        {
+            "Id": 12,
+            "Name": "systemInfo",
+            "Avatar": "",
+            "type": 4,
+            "flag": 2,
+            "content": "意識隨著茜香的聲音消失了"
+        },
+        {
+            "Id": 20,
+            "Name": "systemInfo",
+            "Avatar": "",
+            "type": 4,
+            "flag": 0,
+            "content": "晚上, 你做了個夢"
+        },
+        {
+            "Id": 22,
+            "Name": "systemInfo",
+            "Avatar": "",
+            "type": 4,
+            "flag": 0,
+            "content": "一個小春夢"
+        },
+        {
+            "Id": 23,
+            "Name": "小春",
+            "Avatar": "https://schaledb.com/images/student/collection/10020.webp",
+            "type": 0,
+            "flag": 2,
+            "content": "唔哇! "
+        },
+        {
+            "Id": 24,
+            "Name": "小春",
+            "Avatar": "https://schaledb.com/images/student/collection/10020.webp",
+            "type": 0,
+            "flag": 0,
+            "content": "老師你你你你你要幹什麼啊"
+        },
+        {
+            "Id": 25,
+            "Name": "sensei",
+            "Avatar": "",
+            "type": 1,
+            "flag": 2,
+            "content": "嘿嘿嘿"
+        },
+        {
+            "Id": 26,
+            "Name": "sensei",
+            "Avatar": "",
+            "type": 1,
+            "flag": 0,
+            "content": "水蜜桃味的小孩~ 我來啦~"
+        },
+        {
+            "Id": 27,
+            "Name": "sensei",
+            "Avatar": "",
+            "type": 1,
+            "flag": 0,
+            "content": "(夢中的自己, 一把就抓住了小春的手) "
+        },
+        {
+            "Id": 28,
+            "Name": "小春",
+            "Avatar": "https://schaledb.com/images/student/collection/10020.webp",
+            "type": 0,
+            "flag": 2,
+            "content": "色色什麼的不行!!!! "
+        },
+        {
+            "Id": 29,
+            "Name": "小春",
+            "Avatar": "https://schaledb.com/images/student/collection/10020.webp",
+            "type": 0,
+            "flag": 0,
+            "content": "死刑!! 死刑啊!!!!"
+        },
+        {
+            "Id": 30,
+            "Name": "sensei",
+            "Avatar": "",
+            "type": 1,
+            "flag": 2,
+            "content": "這可是夏萊的'地下室'"
+        },
+        {
+            "Id": 31,
+            "Name": "sensei",
+            "Avatar": "",
+            "type": 1,
+            "flag": 0,
+            "content": "500米深入地下, 僅有一條進出口的, 特製的學生地獄"
+        },
+        {
+            "Id": 32,
+            "Name": "sensei",
+            "Avatar": "",
+            "type": 1,
+            "flag": 0,
+            "content": "小春, 你知道嗎? "
+        },
+        {
+            "Id": 33,
+            "Name": "小春",
+            "Avatar": "https://schaledb.com/images/student/collection/10020.webp",
+            "type": 0,
+            "flag": 2,
+            "content": "知... 知道什麼啊? "
+        },
+        {
+            "Id": 35,
+            "Name": "sensei",
+            "Avatar": "",
+            "type": 1,
+            "flag": 2,
+            "content": "學生們的光環其實是很強的"
+        },
+        {
+            "Id": 36,
+            "Name": "sensei",
+            "Avatar": "",
+            "type": 1,
+            "flag": 0,
+            "content": "無論手段如何, 想要在奇普托斯結束一條生命都是極其困難的"
+        },
+        {
+            "Id": 37,
+            "Name": "小春",
+            "Avatar": "https://schaledb.com/images/student/collection/10020.webp",
+            "type": 0,
+            "flag": 2,
+            "content": "你... 你想說什麼..."
+        },
+        {
+            "Id": 38,
+            "Name": "sensei",
+            "Avatar": "",
+            "type": 1,
+            "flag": 2,
+            "content": "(從背後抱起小春, 把嘴貼近了小春的耳朵)"
+        },
+        {
+            "Id": 39,
+            "Name": "sensei",
+            "Avatar": "",
+            "type": 1,
+            "flag": 0,
+            "content": "我會讓你, 生不如死哦~ ❤️"
+        },
+        {
+            "Id": 40,
+            "Name": "sensei",
+            "Avatar": "",
+            "type": 1,
+            "flag": 0,
+            "content": "(自己的小手開始在小春的肚子上尋找蝦線)"
+        },
+        {
+            "Id": 41,
+            "Name": "sensei",
+            "Avatar": "",
+            "type": 1,
+            "flag": 0,
+            "content": "呀, 怎麼找不到蝦線了呢? 讓我往下找找"
+        },
+        {
+            "Id": 42,
+            "Name": "小春",
+            "Avatar": "https://schaledb.com/images/student/collection/10020.webp",
+            "type": 0,
+            "flag": 2,
+            "content": "不... 不要... 老師... 我..."
+        },
+        {
+            "Id": 43,
+            "Name": "小春",
+            "Avatar": "https://schaledb.com/images/student/collection/10020.webp",
+            "type": 0,
+            "flag": 0,
+            "content": "嗚嗚嗚..."
+        },
+        {
+            "Id": 44,
+            "Name": "sensei",
+            "Avatar": "",
+            "type": 1,
+            "flag": 2,
+            "content": "(感覺自己更興奮了)"
+        },
+        {
+            "Id": 45,
+            "Name": "sensei",
+            "Avatar": "",
+            "type": 1,
+            "flag": 0,
+            "content": "emmm... 找到了哦 (掐)"
+        },
+        {
+            "Id": 46,
+            "Name": "小春",
+            "Avatar": "https://schaledb.com/images/student/collection/10020.webp",
+            "type": 0,
+            "flag": 2,
+            "content": "唔哇啊啊啊啊啊————"
+        },
+        {
+            "Id": 47,
+            "Name": "sensei",
+            "Avatar": "",
+            "type": 1,
+            "flag": 2,
+            "content": "(從背後和小春靠的更緊了)"
+        },
+        {
+            "Id": 48,
+            "Name": "小春",
+            "Avatar": "https://schaledb.com/images/student/collection/10020.webp",
+            "type": 0,
+            "flag": 2,
+            "content": "..."
+        },
+        {
+            "Id": 49,
+            "Name": "小春",
+            "Avatar": "https://schaledb.com/images/student/collection/10020.webp",
+            "type": 0,
+            "flag": 0,
+            "content": "既然是這樣的話"
+        },
+        {
+            "Id": 50,
+            "Name": "小春",
+            "Avatar": "https://schaledb.com/images/student/collection/10020.webp",
+            "type": 0,
+            "flag": 0,
+            "content": "如果是老師...也不是不可以..."
+        },
+        {
+            "Id": 57,
+            "Name": "sensei",
+            "Avatar": "",
+            "type": 1,
+            "flag": 2,
+            "content": "不對! 我在做什麼啊! "
+        },
+        {
+            "Id": 61,
+            "Name": "sensei",
+            "Avatar": "",
+            "type": 1,
+            "flag": 0,
+            "content": "(閉眼, 深呼吸)"
+        },
+        {
+            "Id": 63,
+            "Name": "sensei",
+            "Avatar": "",
+            "type": 1,
+            "flag": 0,
+            "content": "(睜開眼)"
+        },
+        {
+            "Id": 62,
+            "Name": "優香",
+            "Avatar": "https://schaledb.com/images/student/collection/13010.webp",
+            "type": 0,
+            "flag": 2,
+            "content": "老師? "
+        },
+        {
+            "Id": 64,
+            "Name": "sensei",
+            "Avatar": "",
+            "type": 1,
+            "flag": 2,
+            "content": "欸? 怎麼是? "
+        },
+        {
+            "Id": 65,
+            "Name": "優香",
+            "Avatar": "https://schaledb.com/images/student/collection/13010.webp",
+            "type": 0,
+            "flag": 2,
+            "content": "老——師——"
+        },
+        {
+            "Id": 66,
+            "Name": "優香",
+            "Avatar": "https://schaledb.com/images/student/collection/13010.webp",
+            "type": 0,
+            "flag": 0,
+            "content": "真是的"
+        },
+        {
+            "Id": 68,
+            "Name": "優香",
+            "Avatar": "https://schaledb.com/images/student/collection/13010.webp",
+            "type": 0,
+            "flag": 0,
+            "content": "再這樣我真的要生氣了"
+        },
+        {
+            "Id": 69,
+            "Name": "sensei",
+            "Avatar": "",
+            "type": 1,
+            "flag": 2,
+            "content": "(夢中的自己抱住了優香) "
+        },
+        {
+            "Id": 70,
+            "Name": "sensei",
+            "Avatar": "",
+            "type": 1,
+            "flag": 0,
+            "content": "(記憶中兒時自己的聲音) 媽媽... 我要吃奶..."
+        },
+        {
+            "Id": 71,
+            "Name": "優香",
+            "Avatar": "https://schaledb.com/images/student/collection/13010.webp",
+            "type": 0,
+            "flag": 2,
+            "content": "https://img.vxs.nl/?url=https%3A%2F%2Fstatic.kivo.fun%2Fimages%2Fstudents%2F%E6%97%A9%E6%BF%91%20%E4%BC%98%E9%A6%99%2Fgallery%2F%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86%2FQQ%E6%88%AA%E5%9B%BE20211127194631.png&output=webp"
+        },
+        {
+            "Id": 72,
+            "Name": "優香",
+            "Avatar": "https://schaledb.com/images/student/collection/13010.webp",
+            "type": 0,
+            "flag": 0,
+            "content": "老師別咬我啊! "
+        },
+        {
+            "Id": 73,
+            "Name": "優香",
+            "Avatar": "https://schaledb.com/images/student/collection/13010.webp",
+            "type": 0,
+            "flag": 0,
+            "content": "我把衣服解開就是了"
+        },
+        {
+            "Id": 74,
+            "Name": "systemInfo",
+            "Avatar": "",
+            "type": 4,
+            "flag": 2,
+            "content": "之後做了一些色色的事情"
+        },
+        {
+            "Id": 75,
+            "Name": "systemInfo",
+            "Avatar": "",
+            "type": 4,
+            "flag": 0,
+            "content": "第二天"
+        }
+    ],
+    "selectList": [
+        {
+            "Id": 10020,
+            "Name": "小春",
+            "Avatar": "https://schaledb.com/images/student/collection/10020.webp"
+        },
+        {
+            "Id": 173,
+            "Name": "星奈",
+            "Avatar": "https://BlueArcbox.github.io/resources/Avatars/Purana.webp"
+        },
+        {
+            "Id": 104,
+            "Name": "彩奈",
+            "Avatar": "https://BlueArcbox.github.io/resources/Avatars/Arona.webp"
+        },
+        {
+            "Id": 183,
+            "Name": "琳",
+            "Avatar": "https://BlueArcbox.github.io/resources/Avatars/Rin.webp"
+        },
+        {
+            "Id": 13010,
+            "Name": "優香",
+            "Avatar": "https://schaledb.com/images/student/collection/13010.webp"
+        },
+        {
+            "Id": 13008,
+            "Name": "茜香",
+            "Avatar": "https://schaledb.com/images/student/collection/13008.webp"
+        }
+    ]
+}
